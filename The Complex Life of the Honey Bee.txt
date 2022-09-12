@@ -1,0 +1,4808 @@
+PPP-116
+POL-9
+
+The Complex Life
+of the Honey Bee
+Environmental, Biological, and Chemical Challenges to Colony Health
+
+The Complex Life
+of the Honey Bee
+
+Environmental, Biological, and Chemical Challenges to Colony Health
+Fred Whitford, Director, Purdue Pesticide Programs
+Thomas Steeger, Senior Science Advisor, Environmental Protection Agency
+Max Feken, Ecotoxicologist, Syngenta Crop Protection
+Christian Krupke, Extension Field Crops Specialist, Purdue University Entomology
+Greg Hunt, Extension Honey Bee Specialist, Purdue University Entomology
+Reed Johnson, Assistant Professor of Entomology, The Ohio State University
+Corey Gerber, Director, Purdue Crop Diagnostic Training and Research Center
+John Obermeyer, Integrated Pest Management Specialist, Purdue University Entomology
+Krispn Given, Apiculture Specialist, Purdue University Entomology
+Kevin Leigh Smith, Editor, Purdue Agricultural Communication
+Find more publications in the Protecting Pollinators series
+by visiting the Purdue Extension Education Store,
+www.edustore.purdue.edu.
+
+A Complicated Question with a Complicated Answer .............. 4
+The Buzz Surrounding Bees ................................................................................. 7
+A Marvel of Nature . . . . . . . . . . . . . . . . . . ................................................................................... 10
+Building and Maintaining a City of Wax ................................................ 24
+The Biology of the Honey Bee ........................................................................ 28
+Death is a Way of Life . . . . . . . . . . . . .................................................................................. 38
+The Four P’s that Affect Bees........................................................................... 40
+Routes of Pesticide Exposure from Field to Hive .......................... 42
+Everything is Poisonous at Some Dose ............................................ 45
+The EPA Risk Assessment Process ............................................................... 46
+The Honey Bee as a Surrogate for Insect Pollinators .......... 48
+A Host of Questions to Answer................................................................ 49
+Determining Many Routes of Exposure........................................... 52
+Formulating a Working Hypothesis ................................................... 53
+Analyzing the Data. . . . . . . .................................................................................... 53
+Comparing Exposure and Effects in a Tiered Approach ...... 54
+Tier 1 — Effects to Individual Honey Bees.................................... 56
+Tiers 2 and 3 — Colony-level Assessments................................... 59
+Is the Risk Quotient Above or Below Levels of Concern? ..... 61
+Registration Decisions Go Through Extensive Reviews......... 62
+The Label Puts the Risk Assessment to the Test ............................ 63
+Moving Beyond the Label .................................................................................. 64
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .................................................................................... 65
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................................... 68
+Appendix: Descriptions of EPA Testing Protocols ........................ 69
+Acknowledgements . . . . . . . . . . . . . . .................................................................................... 75
+Disclaimer. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................................................... 75
+Cover photo © Eric Tourneret
+
+3
+
+A Complicated Question
+with a Complicated Answer
+Are honey bees in decline?
+It seems like a simple question to ask. Yet, you can
+watch a television program or read an article that reports
+honey bees are in a perilous position. They report that if
+current trends continue, it will alter the way humans eat,
+or at least drive up the costs of our favorite fruits, nuts,
+and vegetables. Conversely, another story will argue that
+the decline in honey bees is contrived, and the facts do
+not support the conclusion that the bee industry is in
+dire straits.
+At times contentious and controversial, some reports
+are anecdotal and use speculation and unsubstantiated
+facts laced with emotional opinions. Other discussions
+
+are based on known facts and scientific evidence, but
+fall short of providing important perspective on the
+difficulties of maintaining honey bees — either professionally (as in commercial or sideline operations) or
+privately (as in backyard beekeeping).
+How can these reports have such divergent perspectives? As in most debates, the answer to whether bees
+and other pollinators are in trouble probably lies in a
+careful analysis of science-based information surrounding the debate.
+Discussions and debates often begin with the rather
+politically- and emotionally-charged words and phrases
+used in the first minutes of any discussion concerning
+
+A honey bee yard seemingly tucked away from harm.
+
+4
+
+whether bees are healthy or unhealthy. You’ll often hear
+phrases like “bee decline” and “colony collapse disorder.”
+In many cases, these explicit terms become the headline,
+because they portray powerful mental images to the
+audience.
+You might ask yourself, “How would I define these
+terms?” And, if a definition could be agreed upon,
+“How would I measure them?” Without some context
+to their meaning, bee decline, colony collapse disorder,
+and other terms can be rendered meaningless and
+confuse the issue.
+Scientists, government officials, conservation
+groups, and industry professionals are asking plenty
+of questions about why beekeepers (both commercial and hobbyists) are seeing increased colony losses.
+One baseline often reported is that in a typical year,
+28 percent of honey bee hives die during the winter
+season. Annual losses may be higher; this number is
+a source of considerable debate.
+Whatever the annual baseline loss may be, the
+percentage of yearly losses began to routinely exceed
+that long-term average about a decade ago. When
+that happened, experienced beekeepers took notice,
+and many have voiced their concerns about the
+viability of beekeeping.
+Any threat to beekeeping represents a threat to
+agriculture, specifically the production of fresh fruits,
+nuts and vegetables. This has raised the profile of the
+“honey bee decline” story and captured the public’s
+attention. We will discuss the potential causes for these
+trends in this publication, but regardless of the causes
+(at least in the short-term) these losses represent an
+unwelcome challenge for beekeepers. Left unchecked,
+these causes could potentially lead to more serious and
+widespread negative consequences.
+Everyone from beekeepers to conservationists who
+want to protect diverse habitats want “The Answer”
+for the cause of bee declines to be proven using the
+best available science. While individuals search for a
+single cause, scientists continue to assert that, as with
+many biological questions, there are multiple factors
+associated with declines in pollinator health. The more
+we learn, the more the complexities become apparent.
+
+KEY STRESSORS TO
+HONEY BEE POPULATIONS
+
+key
+are
+tes
+i
+m
+
+N
+IO
+
+D
+
+ti c
+
+o ra g e
+
+UT
+
+la c
+
+k of f
+
+RI
+TIO
+N
+
+moving th
+e
+
+h
+
+ria
+cte
+
+EN
+
+ac
+
+,v
+
+ba
+SE
+EA
+IS
+
+EMer
+AG eep
+M A N bee k
+pr
+
+fun
+gu
+s
+
+s,
+iru
+
+i
+TRANSP ve
+OR
+TA
+T
+
+ASITES
+PAR
+
+T
+
+es
+
+N
+
+PESTICIDES l use
+ch e m
+
+ic a
+
+Even so, this does not mean there are no solutions.
+We already know a lot about the threats to pollinators
+and pollinator research is more active than ever. For
+example, we know that the ectoparasite mite Varroa
+destructor arrived in the United States in the 1980s and
+is the single most devastating enemy of both managed
+and feral bees in the United States.
+
+5
+
+The honey bee on the left has deformed wing virus.
+
+Other key stressors to honey bee populations
+include:
+• Parasites like tracheal mites (Acarapis woodi),
+small hive beetle, and wax moths
+• Diseases (such as the fungus Nosema ceranae),
+bacteria (such as American foul brood), and
+viruses (such as deformed wing virus)
+• Lack of suitable forage (poor nutrition) from
+loss of habitat due to farming, increased human
+populations, and new construction
+• Pesticide exposure to honey bee foragers and
+their developing young (brood)
+• Beekeeper management practices, which
+include the stress of transporting honey bees
+across the country for pollination services
+
+Many fruits and vegetables depend on honey bees for pollination.
+
+There are multiple factors associated with declines
+in honey bee health and outright colony losses. But the
+most controversial is pesticides, because this risk factor
+involves a wide range of stakeholders who agree that
+both pesticides and pollinators are important to
+agriculture.
+This publication explores the roles pesticides may
+play in bee health, examines the latest knowledge in
+this fast-developing field of research, and discusses the
+regulatory effort to determine the risk of pesticides to
+honey bees and other pollinators. To interpret the role
+stressors like pesticides may play in influencing bee
+biology and health, it is important to understand bee
+biology. So, we will begin by examining that biology.
+
+While there will always be disagreements about the
+causes and effects of declines in hives, beekeepers, agriculturists, scientists, conservationists, and policymakers all agree that honey bees play a pivotal role in crop
+production, availability, prices, food security, and the
+economy.
+A critical first step in protecting that role in the future
+is to outline the current state of knowledge surrounding
+the debate.
+
+6
+
+The Buzz Surrounding Bees
+Though small, the honey bee (Apis mellifera) has become
+the center of an intense national and international debate.
+Starting in the early 1980s, commercial beekeepers noticed that it was increasingly difficult to keep honey bees
+alive through the winter. A worried commercial beekeeping industry asked university and USDA bee specialists
+and researchers to address why this was occurring.
+Below, we summarize the recent history behind some
+of the key factors — tracheal mites, Varroa mites, and
+colony collapse disorder — known to affect honey bee
+populations in North America.
+
+Tracheal Mites
+
+One of the initial key contributors to declining bee
+populations was the tracheal mite (Acarapsis woodi),
+which was introduced from Mexico into a Texas apiary.
+From that first detection in Texas, the tracheal mite
+quickly spread throughout the United States.
+The microscopic tracheal mite enters a honey bee’s
+respiratory system through its spiracles, which are
+breathing holes that lead directly to the bee’s tracheae.
+Tracheae serve as breathing tubes, carrying oxygen
+to a honey bee’s cells. When tracheal mites infest a bee,
+they effectively clog these tubes, reduce oxygen flow,
+and weaken the bee.
+Losses from tracheal mites forced some apiaries out
+of business. Researchers found that when 30 percent of
+the honey bees in a hive are infested with tracheal mites,
+the hive was more susceptible to cold winter temperatures. This was largely due to bees not maintaining a
+warm enough temperature within the hive cluster. Some
+apiaries reported that half of their hives died over the
+winter following the introduction of tracheal mites.
+
+This photograph shows a tracheal mite viewed through a microscope.
+© Scott Camazine
+
+If there was a silver lining to the story, it was that honey
+bees and beekeepers developed various strategies to
+reduce tracheal mite infestations. Although tracheal
+mites continue to harm some colonies, the problem
+has mostly subsided into the background of honey bee
+health issues. For the beekeepers who remained after
+the initial tracheal mite invasion, they observed that the
+honey bee industry slowly began to recover.
+
+7
+
+Varroa Mites
+
+This is particularly unfortunate for the colony because
+a queen bee stops laying eggs in the fall, and the hive
+relies on heathy bees that can live through the winter to
+raise brood in the spring. Although it has been decades
+since the Varroa have been introduced, honey bees have
+not been able to overcome its devastating effects as they
+were able to with tracheal mites.
+Throughout the 1990s, apiaries continued to make
+honey and provide pollination services despite the
+challenges presented by mite infestations. Beekeepers
+were forced to replace lost hives each year by splitting
+and placing healthy colonies into vacated hives, which
+stressed colonies even more. The result was a rapidly
+rising cost in agriculture.
+
+However, that good news was soon supplanted when a
+new and far more serious threat was introduced. The aggressive Varroa mite was inadvertently introduced to U.S.
+honey bees around 1987. Domestic honey bees that had
+no previous association with this mite were extremely
+susceptible. As a result, apiaries recovering from tracheal
+mite infestation were decimated by the Varroa mite.
+
+This Varroa mite locates itself strategically to avoid being groomed off by
+its honey bee host. Although mites are frequently found on adult bees, the
+mites most seriously affect larvae. © Alex Wild
+
+Varroa mites are an external parasite that feed on the
+hemolymph (insect blood). It feeds off adult honey bees
+and their developing young (larvae and pupae). Varroa
+mites also transmit deadly viruses — like mosquitoes can
+vector viruses to humans and other mammals. Mite infestations can kill pupae outright, and many of the adult
+bees that survive to emerge from pupal cells show symptoms of deformed wing virus, which can be vectored by
+the mites.
+Deformed wing virus can render the bee wings crinkled and undeveloped. Bees infected with this virus cannot fly, so they cannot function properly as part of the
+colony. The virus weakens the bee and eventually kills it.
+Varroa infestation in the hive typically peaks in the
+fall. Between the damage caused by the direct feeding of
+mites and damage caused by deformed wing virus (and
+other viruses), the hive loses a significant amount of its
+adult labor force. These losses make it more difficult for
+the bees to overwinter.
+
+After feeding in the cell on the developing larva and pupa, this Varroa mite
+emerges with the adult honey bee. © Scott Camazine
+
+Colony Collapse Disorder
+
+In 2006 and 2007, a phenomenon known as Colony
+Collapse Disorder (CCD) made headline news across the
+country. CCD was initially defined based on symptoms:
+adult bees declined and the colony collapsed over the
+course of a few weeks, usually leaving the queen and a
+small number of workers in a colony with nectar, pollen,
+and brood still in the cells. CCD was never clearly
+defined, but the spectacular disappearance of bees
+gripped the public’s imagination in a way that continues
+today, even though the CCD syndrome may not have
+been as widespread or as long-lasting as media reports
+suggested.
+
+8
+
+Each year, beekeepers truck millions of bees to California’s Central Valley to pollinate almonds. © Smithers Viscient
+
+Growers of fruits, nuts, and vegetables who depended
+on commercial beekeepers for pollination services began
+to worry if there would be enough honey bees for pollination. What had historically been taken for granted,
+took on a different meaning when the number of hives
+available for pollination services were significantly
+reduced (and therefore more expensive to rent).
+In particular, almond growers provide the most
+compelling example of how much one agricultural crop
+relies on honey bee pollination services. California’s
+Central Valley grows approximately 80 percent of the
+world’s almonds. California almond growers rely exclusively on honey bees for crop pollination, which requires
+more than 1.8 million hives, or about two hives per acre.
+More than half of all of the managed honey bee
+colonies in the United States are required to pollinate
+almonds every single year. The cost for commercial
+
+pollination is about $300 million or about 10 percent of
+the total production costs for almonds. The cost to rent a
+single hive has increased from $15 to $30 to around $200
+because the availability of colonies has become limited,
+the costs of maintaining the colonies has increased, and
+California growers have increased almond production.
+Ultimately, all of these factors are reflected in higher
+almond prices for consumers.
+This is just a single example — there are dozens more
+with relevance for crops all over the world.
+But there is more to honey bees than the services
+they provide, and understanding their remarkable
+biology is important to answer the question we posed
+at the beginning (Are honey bees in decline?). In the
+sections that follow, we will explore the amazing and
+complex biology of this insect before discussing how
+some of the stressors (including pesticides) affect them.
+
+9
+
+A Marvel of Nature
+Human civilization and
+We are now learning
+honey bees have coexisted
+that pollination by wild bee
+for thousands of years. As a
+species also contributes
+direct benefit, honey bees
+substantially to yields in
+provide us with products
+some fruits and vegetables,
+such as honey (a natural
+including many types of melsweetener) and wax (for
+ons, stone fruits, and berries.
+making candles and other
+Bumble bees (Bombus speproducts). Honey remains
+cies) are particularly wellone of nature’s best and
+suited for pollinating plants
+most versatile examples of
+such as blueberries and toA honey’s color and taste are determined by the flowers in bloom.
+a naturally produced prodmatoes. Alkali bees (Nomia meuct used in cooking, beverages, cosmetics, and medilanderi) and alfalfa leafcutter bees (Megachile rotundata)
+cines. Annual U.S. honey sales amount to $320 million.
+are important for pollinating alfalfa grown for seed.
+Americans consume 450 million pounds of honey each
+year, more than half of that honey is imported.
+While honey is an important bee product, the greatest
+value of managed bees is in the pollination of nut, fruit,
+and vegetable crops. For example, commercial beekeepers transport tens of thousands of hives on semi-trucks
+to farms growing crops that require insect pollination.
+Bee managers transport hives to pollinate almonds in
+California; blueberries in Maine, Georgia, and Florida;
+cherries in Michigan; apples in Washington and New
+York; melons in Indiana; cranberries in Wisconsin; and
+sunflowers in North Dakota.
+Some plants are self-pollinated (this includes most
+grains or oilseed crops, tomatoes, peppers, peas, peanuts, and citrus), and other plants are wind-pollinated
+(including corn, soybeans, walnuts, and pecans). But
+many flowering plants require insects to move pollen
+Cucurbit crops (including pumpkins and cantaloupes) need honey bees to
+from male to female parts to produce a fruit, vegetable,
+produce desirable fruit.
+or nut. A large percentage of the most colorful food
+items in the produce section of grocery stores must be
+pollinated by honey bees and other pollinators.
+
+10
+
+HONEY BEE FACTS
+A worker bee only produces
+1/12th of a teaspoon of honey
+in her lifetime.
+It takes about 250 bees to
+fill one cell with honey.
+One teaspoon of honey takes
+5,000 flower visits.
+
+The availability of many of fruits is tied directly to pollinators.
+
+A typical colony will visit
+225,000 flowers per day.
+
+1
+
+lb.
+
+Bees visit 2 million flowers
+to make a pound of honey.
+
+Honey bees are fuel efficient.
+
+While honey bees are well-known pollinators, other insects are also important pollinators,
+including the bumble bee, alfalfa leafcutter bee, and alkali bee. © Smithers Viscient
+
+Honey bees can visit 50–100
+flowers during a single trip to
+collect nectar.
+
+Add it all up, and honey bees and other pollinators
+are directly or indirectly responsible for one-third of
+the food Americans consume with an annual economic
+value of $19 billion. Without the commercial beekeeping
+industry and the pollination services the bees provide
+to agriculture, much of what we purchase at the grocery
+store would be far more difficult to find and considerably
+more expensive.
+Worldwide, there are seven honey bee species, but
+Apis mellifera is the species hobbyists and commercial
+beekeepers use most often. The native range of A. mellifera is in Europe, and there are different geographical
+races named after their respective areas of origin. These
+include the Italian, German Black, Caucasian, and
+Carniolan, many of which have become popular among
+beekeepers in the United States because of their specific
+rearing traits.
+
+Honey is a natural product
+made by bees.
+Bees have been making honey
+for 150 million years, at least
+since the time of the dinosaurs.
+
+70
+lbs.
+
+The average managed hive
+collects 70 pounds of pollen
+during the year.
+
+European settlers introduced the German black honey
+bee (Apis mellifera mellifera) to the United States in 1638.
+This specific race was well-adapted to cold temperatures.
+In the 1850s, beekeepers imported the Italian honey bee
+(Apis mellifera liqustica), because it produced larger colonies,
+made more honey, was gentler and easier to manage.
+
+11
+
+Today, many apiaries typically
+Honey bees evolved
+include hybrids of these and
+differently, and now large
+other races. Although queen
+numbers of sterile female
+bees are sometimes artificially
+worker bees act as a “super
+inseminated, the vast majority
+organism,” that is, an inHONEY
+BEE
+of queens mate while flying
+dividual bee is part of the
+TERMINOLOGY
+with multiple males (drones),
+larger social unit of the hive.
+which results in diverse genetic
+A mated queen handles
+mixtures and genetic diversity
+reproductive duties by
+COLONY
+in the hive. These genetic mixlaying eggs fertilized by
+The colony is the biological
+living unit of tens of thousands
+tures are hybrids that have difsperm provided by male
+of workers, drones, and a
+ferent characteristics including
+bees (drones) during the
+queen.
+disease resistance, foraging
+queen’s mating flight. While
+efficiency, aggressiveness,
+reproductive functions are
+HIVE
+The
+structure
+in
+which
+bees
+adaptability to fluctuating food
+important, it is the female
+live and are kept.
+availability, honey production,
+workers (as sisters and
+and cold-weather tolerance.
+daughters of the queen)
+HONEYCOMB
+Scientists have long been
+who perform the majority
+A sheet of hexagonal wax cells
+made by honey bees to store
+fascinated with honey bees.
+of tasks inside and outside
+honey, pollen, and brood.
+The study of honey bee biology
+of the hive.
+goes back as far as Aristotle
+Honey bees cannot
+BROOD
+(384-322 B.C.), making it one of
+survive long on their own
+Eggs, larvae, and pupae.
+the oldest subjects of scientific
+outside of the colony.
+inquiry. And the economic
+Worker bees perform
+importance of honey bees
+specific jobs based on
+for pollination and food
+their age.
+production have made them
+Young adult workers
+the subject of work by research universities, the USDA,
+perform in-hive tasks like feeding the larvae and queen,
+and many beekeepers and commodity organizations
+building wax combs, processing nectar into honey,
+that have invested significant effort and money to
+keeping the hive cleaned, and guarding the colony.
+study honey bee evolution, biology, genetics, foraging
+As those adult workers age, their flight muscles
+behavior, communication strategies, and management.
+develop to allow them to do out-of-hive tasks such
+With the current suite of problems afflicting bees,
+as removing dead, dying, and diseased bees away from
+this research is more crucial than ever. As a result of
+the colony, and, most importantly, foraging for pollen,
+these concerns, we are learning more than ever about
+nectar, water, and propolis. Propolis is resin from plants
+how bees live and work, and the factors that affect
+(including poplar trees) that honey bees use as a “bee
+their populations.
+glue” in the hive and as an antimicrobial medicine for
+the colony.
+Acting as One
+The oldest bees in the colony generally perform the
+Honey bees are social insects that live together in large
+most energetically demanding and dangerous work
+numbers. This is in contrast to solitary bees (including
+of foraging for pollen, scouting for forage areas, and
+sweat bees, leafcutter bees and others) and most other
+finding new colony locations. Ultimately, these are a
+insects. In the case of solitary bees, the female is responbee’s final jobs.
+sible for building the nest, collecting food, feeding the
+young, and defending the nest.
+
+12
+
+Each female honey bee will
+assume many different roles
+inside and outside of the
+colony as she ages.
+
+This division of labor among the adult workers is a
+model of efficiency, like a factory assembly line in which
+each worker has a defined and indispensable role. When
+a forager comes back with nectar, she does not deposit
+the nectar directly in a honey cell. Her priority is to get
+back to foraging. Instead, she passes the nectar to a
+receiver bee, who will then pass it along to others until
+it is placed in a cell. If the forager cannot find a receiver
+bee, she will buzz and recruit bees to become receivers.
+Once the forager bee has transferred the nectar to the
+receiver, she can immediately return to her duties finding
+more nectar and pollen.
+
+It Smells Like Home
+
+Like other insects, bees sense odors (smell) with their
+antennae. Every colony has its unique chemical “signature” smell that allows the guard bees to recognize that
+the incoming foraging bees belong to that specific
+colony, and are not foreign bees seeking to rob honey.
+Within a hive, the bees’ bodies secrete a hydrocarbon
+blend onto the bee’s surface. The hydrocarbon also picks
+up particular floral, wax, and propolis scents that set
+them apart from other bees in the area — even those
+bees that may be from an adjacent colony just a few
+feet away in a large apiary that contains thousands of
+hive boxes.
+Foraging honey bees use
+sensory cues that allow them
+to return to the correct hive.
+
+13
+
+An Information Processing Center
+
+With a workforce consisting of more than 40,000, it
+is imperative that a hive is able to clearly and rapidly
+communicate the needs of the group — the same is
+true even for smaller colonies of a few thousand bees.
+Given that the inside of the hive is dark, the only true
+way of communicating is by olfactory (smell) cues
+and vibrations.
+Pheromones are chemicals that bees release and
+can detect with their antennae. The bees then react
+to the specific messages these compounds convey.
+Pheromones can communicate the presence of the
+queen (queen pheromone), the queen’s health, what
+and when to feed developing larvae, and when an
+attacker is threatening the hive (alarm pheromone).
+
+Returning foragers relay direction and distance information to other bees.
+This worker is vibrating so rapidly while performing the waggle dance that
+her body is a blur. © Scott Camazine
+
+Dancing for Direction
+
+Like humans, honey bees have a symbolic language —
+bees use their famous “waggle dance” as a language.
+These dances allow a returning forager to communicate
+with its hive mates about the location (direction and
+distance) of pollen and nectar. Scientists have identified
+two different dance languages: the round dance and
+waggle dance, for which Karl von Frisch won a Nobel
+Prize in 1973.
+The round dance happens when nectar and pollen
+resources are close to the hive (within about 100 feet).
+The forager bee will turn in circles alternating to the left
+and right. While this conveys the message that flowers
+are near, the round dance does not provide information
+about direction.
+While dancing in a circle, the forager passes off small
+amounts of nectar to several different foragers. Not only
+can the newly recruited foragers taste the nectar, they
+also pick up the smell of the flowers from the forager’s
+body. Taste and smell are valuable forms of information
+that become a signature of what the foragers are searching for around the hive. Incidentally, this is the primary
+reason that flowers smell the way they do — while not
+all flowers are pleasing to humans, their various odors
+include a range of compounds that attract a diverse
+group of potential pollinators.
+As the distance to the food source gets farther away
+from the hive, the round dance coalesces into the waggle
+dance. The waggle dance communicates information
+about both the distance and direction of the flowers.
+
+Bees transmit abstract messages to sister bees through the round dance
+and waggle dance. © Scott Camazine
+
+Inside the darkness of the hive on a vertical comb,
+the returning forager who has information to convey
+will dance in a pattern close to a figure eight. On the
+vertical comb, the bees interpret the direction of the
+sun to be always at the top of the hive. So, if the source
+of the nectar is 90° to the left of the sun, the forager
+performing the waggle dance will orient her head in
+that direction with respect to straight up. Bees can tell
+which way is up using gravity and they can follow the
+dancer by feeling the wind of her buzzing wings. The
+foragers, responding to this information, will leave the
+hive at an angle of 90° to the left of the sun and travel
+in the general direction of the food source.
+
+14
+
+The Bee Factory Produces
+Bee Bread and Honey
+
+If the flowers are two miles from the colony, the bee
+will orient to the direction and vigorously shake and
+vibrate. If the food source is one mile away, she will
+shake and vibrate faster for a shorter duration than if it
+is two miles away. The length of time that the forager
+waggles conveys to the other workers how far away
+they will have to search.
+The dance does not pinpoint exactly where the plant
+patch is, but it provides the general location of where
+to slow down and search. Once in the general vicinity,
+workers will rely on visual and olfactory cues to locate
+the flowers. The overall vigor and intensity of the dance
+is also a cue — it excites other bees when a forager is
+more animated — and will influence the numbers of
+foragers recruited.
+
+Most organisms need a diverse diet consisting of minerals,
+carbohydrates (sugars), fats, and amino acids (proteins)
+to survive and reproduce. Honey bees get these essential
+nutrients from flowers. Nectar (produced by the glands
+of flowers to attract pollinators) is rich in sugar and
+becomes the bee’s main energy source. Flower pollen
+is the main source of amino acids that make up proteins
+(and some fats) that provide the building blocks in the
+bee’s body.
+Honey bees are willing to eat fresh nectar (which has
+far more water and less sugar than honey) and pollen
+as it comes into the hive. However, altering nectar and
+pollen gives them flexibility in storing these products for
+those inevitable times when pollen and nectar become
+scarce in early spring and late fall.
+
+Bees Remember
+
+Amazingly, a forager remembers where she has been.
+She has a mental map in her brain that allows her to
+return to the same place she fed the day before and
+that allows her to find her home when she is done.
+A honey bee’s compound eyes do not see with as
+much resolution as human eyes — researchers believe
+that what a bee sees is akin to a very crude pixelated
+image. But that doesn’t mean visual cues are unimportant. Bees can and do see, learn, and recall a variety of
+landmarks and cues, including floral smells, shapes,
+patterns, and colors. They are also very good at perceiving movement. As a bee gets closer to the flower patch,
+visual clues take over. Color (specifically ultraviolet (UV)
+light) is another very important cue. Her eyesight is
+good enough that when she is flying she can discriminate familiar but general shapes and patterns.
+
+This honey bee is
+heading out on a
+foraging trip. Note
+the fine hairs that
+cover the bee that
+make it effective at
+collecting pollen.
+
+D
+EA
+R
+B
+
+NECTAR
+
+POLLEN
+
+The three foods made
+by bees, for bees,
+from flowers
+
+© Alex Wild
+
+15
+
+EY
+
+Y
+JELL
+AL
+Y
+RO
+
+BE
+E
+
+ONE CANNOT LIVE ON
+BEE BREAD ALONE
+
+HO
+
+N
+
+This photo shows forager and receiver bees exchanging nectar.
+This food exchange is known as trophallaxis. © Alex Wild
+
+This photo shows cells with nectar and bee bread.
+
+Carbohydrates and Nectar
+
+to help break down the original nectar and stabilize it
+against degradation.
+Nectar is 60 to 80 percent water, depending on the
+plant species. Conversely, honey is less than 18 percent
+water — illustrating another way bees refine nectar.
+Honey’s lower water content helps preserve it. Worker
+bees remove the water by fanning their wings in the
+hive to evaporate as much water as possible, effectively
+acting as tiny dehydrators. Bees don’t fan their wings at
+each and every cell, but the passing of air throughout
+the hive helps evaporate the water.
+Reducing the water content also
+increases honey’s sugar content, so it
+provides greater energy per unit volume
+than the more dilute nectar. Given that
+honey is the “high-octane” fuel for
+the extremely active bees, the more concentrated the product, the more
+energy and bang-for-the-buck that the
+bees obtain.
+Removing the water from nectar is not
+the only way honey bees preserve nectar. They also
+add preservatives to prevent honey from spoiling. Like
+humans, bees must constantly battle the ubiquitous
+bacterial and fungal organisms that cause food to spoil.
+Honey bees add an enzyme called glucose oxidase
+(a type of oxygenase) to make honey mildly antiseptic
+and sterile. Glucose oxidase works at the honey’s
+surface where it combines with oxygen to turn
+glucose into gluconic acid and hydrogen peroxide.
+
+Honey is not just a repository of concentrated nectar.
+It is a manufactured product that uses nectar as the
+primary ingredient. The process of converting nectar
+into honey begins with the foragers.
+Foraging bees lap up minute amounts of nectar from
+flower glands located at the base of the female portion
+of the flower or from extra-floral nectaries (depending
+on plant species). That foraging bee will digest some
+of that nectar for its own energy needs. But most of
+the nectar will remain in the bee’s honey stomach,
+an organ that is adapted for transporting nectar
+and bringing it back to the colony for
+eventual storage. The foraging bee visits
+flowers until she fills her honey stomach,
+and then either continues foraging until
+she has a full load of pollen or simply
+returns to the hive.
+While the nectar is in the honey stomach, the enzyme called invertase begins
+to break the more complex sugars (such as
+sucrose) into glucose and fructose, which are
+easier for honey bees to digest (as well as for humans
+and other animals). Upon returning to the hive, the
+forager opens her mandibles and allows a receiver
+bee to suck out the regurgitated nectar. The forager
+usually transfers the nectar to two or more receivers
+who then place a drop of nectar into a cell. The process of exchanging food like this is called trophallaxis.
+During the process of transferring nectar from one
+receiver bee to another, the bees add other enzymes
+
+16
+
+01 FROM FLOWER
+TO STOMACH
+
+Foraging bees
+store nectar that
+will become
+honey in a
+specialized
+stomach. A
+valve in this
+honey stomach
+allows some
+nectar to enter
+the mid-gut if
+the bee needs
+energy to fly.
+
+02 INVERTASE
+
+04 DROPPED
+
+INTO CELLS
+
+ADDED
+
+03 RECEIVERS
+TAKE
+CONTROL
+
+The bee adds
+the enzyme
+invertase to
+the nectar to
+break it down
+into the easily
+digested
+sugars: fructose
+and glucose.
+
+Receiving bees
+suck out nectar
+from returning
+bees. They
+then add more
+enzymes to
+help break
+down the
+nectar.
+
+Two or more
+receiver bees
+that are
+loaded with
+nectar place
+a drop into
+a cell.
+
+05 FANNING TO
+
+07 SEALED
+IN WAX
+
+EVAPORATE
+Worker bees
+fan wings
+over cells to
+reduce water
+content in
+new honey
+from 60–80%
+to 18% to
+preserve
+honey.
+
+06 GLUCOSE
+OXIDASE
+ADDED
+Oxygenase is
+added with
+the invertase
+to preserve
+honey.
+
+NECTAR TO HONEY
+A Sweet Job
+
+Honey also has such a high concentration of sugar
+and such low water content that it draws moisture from
+any microorganism that lands in it. These features, combined with the fact that honey is acidic (with an average
+pH of 3.8), makes it highly unlikely that microorganisms
+can survive in this hostile environment.
+Once bees fill a cell in their comb with honey, the
+bees build a wax cap over it. Over time, the cap turns
+darker as the air escapes. At this point, the cell is
+considered sealed, and the honey inside may remain
+edible and unspoiled for a very long time.
+
+Darker cells are nearly devoid of oxygen and sealed.
+
+17
+
+Once filled
+with honey, a
+wax cap is
+built over the
+cell to keep
+honey fresh
+and available
+for a long
+time.
+
+Proteins and Pollen
+
+However, bees must still considerably manipulate
+the plant structure to get enough pollen for a full
+load. As the bees work the flowers and collect the
+pollen on their bodies, they will brush pollen into a
+pollen basket (corbicula) found on the outside of her
+hind legs. Once a bee fills both baskets with pollen,
+she returns to the hive.
+
+Pollen from the anther, or male part of the flower, is
+a colony’s protein source. As bees fly, they become
+electrostatically-charged. As a result, when bees land
+on a flower, pollen literally “jumps” off the anther and
+attaches to the hairs on the bee’s body. These hairs are
+also branched, which helps hold pollen. This adaptation
+makes the business of collecting pollen easier.
+
+Foragers returning to the hive with pollen. Note that the bee at the top right has a full load of pollen in the pollen baskets on her hind legs.
+
+These photos show bees with pollen baskets at different levels of fullness (from left): empty pollen basket, partially full pollen basket, and a full pollen basket.
+
+18
+
+Instead of passing pollen to other bees like they do
+with nectar, a foraging bee that returns to the hive with
+a loaded pollen basket will deposit her load somewhere
+near where young larvae are being raised. Young nurse
+bees are the principal consumers of stored pollen (called
+bee bread), which they feed to the larvae.
+Bees also enzymatically process and age the bread.
+Other bees will pack the pollen into a cell. After the pollen forager has completed her task, she may consume
+some honey for energy and then return to the foraging
+site to retrieve more pollen.
+
+01 POLLEN
+
+MOVES TO
+BASKETS
+Pollen is
+brushed into
+baskets found
+on the outside
+of their hind
+legs.
+
+03 PACKED
+02 POLLEN
+
+GETS
+DEPOSITED
+Pollen load
+is deposited
+near where
+young larvae
+are raised.
+
+INTO
+CELLS
+
+Other
+workers pack
+the piles of
+pollen into
+a cell.
+
+POLLEN PROCESSING
+A Versatile Foodstuff
+
+19
+
+04 POLLEN
+
+06 OLDER
+
+GETS
+EATEN
+
+Honey bees
+process
+pollen as a
+source of
+protein.
+
+05 ROYAL
+JELLY
+
+Royal jelly is
+secreted from
+glands in the
+hypopharynx.
+
+LARVAE:
+CHEWED
+POLLEN &
+HONEY
+Older larvae
+eat a mix
+of pollen
+and honey
+processed
+together.
+
+After a foraging bee deposits pollen, another worker compresses it with her
+head to remove air spaces. The different colors indicate that the pollen is
+from different flowers. © Alex Wild
+
+Honey bees can eat pollen like they eat nectar, but
+pollen’s outer coating can be difficult to break down and
+digest. Young adult honey bees (nurse bees) turn pollen
+into a more easily digestible product called bee bread.
+Nurse bees digest bee bread in their guts, and then
+glands in their head (hypopharyngeal glands) use the
+digested protein to produce royal jelly or brood jelly.
+Older worker larvae are fed a mixture of chewed up
+pollen and diluted honey in addition to brood jelly;
+however, the queen is fed royal jelly throughout her life.
+
+A variety of fall flowers, many
+of them asters, are necessary to
+help bees get through the winter
+with sufficient honey reserves.
+
+Saving for a Rainy or Cold Day
+
+Bees store honey and pollen so the colony has food
+when flowers are in short supply, on rainy days when
+foraging activity is limited, or through the winter when
+the bees are clustered in the hive for months on end.
+For an organism with a colonial life cycle and enormous
+energy needs, the ability to store food resources is
+essential. Without it, honey bees would periodically
+run out of food and starve to death.
+
+We all know that during the spring and fall, flowers
+do not bloom on the same date each year. In fact, when
+flowers bloom can vary by weeks from year to year. This
+is why a hive needs thousands of foragers to take advantage of flowers when they are blooming. The next flush
+of flowers and weather are both unpredictable in timing
+and abundance, so gathering the products from flowers
+is critical when they are available.
+The fall nectar flow is particularly variable from year
+to year. Honey bees depend heavily on the late-season
+rush of goldenrod, asters, and other plants in the fall.
+Many beekeepers usually harvest most of their honey in
+August and trust that the colony will collect additional
+nectar to get them through the winter. Most beekeepers
+will also supplement colonies with sugar water during
+this time. Still, this last flush of flowers is critical to provide the colony with enough stored honey to help them
+survive the winter.
+
+20
+
+Drinking at the Mud Hole
+
+A Room with Six Walls
+
+Honey bees gather minerals and a variety of salts from
+shallow and often stagnant water puddles. It sounds
+counter-intuitive, but the pristine and clear waters of a
+babbling brook are less appealing to honey bees. Bees
+prefer brackish and mucky waters because they contain
+a range of micronutrients not easily found during their
+visits to plants.
+
+Each honey bee has glands on the lower side of its abdomen that secrete a clear liquid wax. After a few minutes,
+this material solidifies but remains pliable by chewing.
+Working the wax in their mouths, workers build the comb
+walls tilted slightly upward to keep the honey from flowing out of the cell.
+Hexagonal cells are characteristic of a honey bee’s
+comb. A hexagonal cell with its six walls has been shown
+to be the most efficient way of using all the space available.
+The six-sided cell also maximizes strength, while minimizing
+the amount of wax needed for building the walls. When
+a frame is completely full of honey or pollen, it can weigh
+several pounds, and yet the hexagonal design doesn’t sag
+or stretch.
+
+This photo shows a partially drawn out
+comb that reveals cells under construction.
+
+Bees must expend a lot
+of energy to produce wax.
+It takes eight ounces of honey
+combined with secretions from
+the bees themselves to make
+A worker bee’s wax secretions result
+just a single ounce of wax.
+in solidified plates. © Scott Camazine
+Beekeepers reuse and
+recycle all wax cells to reduce the
+energy they must expend to make wax, which then allows
+the bees to store more honey. This is one of the reasons
+that commercial beekeepers are loathe to throw out old
+frames. To maintain a clean, healthy operation, it is sometimes necessary to throw out a frame, especially if disease,
+parasites, and pesticide contamination are suspected.
+
+Stagnant water can be rich in nutrients for the honey bee.
+
+21
+
+Bees at the hive entrance move
+air by fanning their wings. When
+bees fan their wings at the hive
+entrance, it helps lower the
+temperature inside the hive.
+© Alex Wild
+
+An Air-conditioned Hive
+
+Honey bees require very specific temperatures inside the
+hive to protect their brood and food reserves. If the hive
+temperature gets too hot (this is common in the summer),
+foragers will collect water and bring the water back to
+the hive in their honey stomachs.
+Foragers bringing water back to the colony transfer
+it to receiver bees who put small droplets into empty
+cells, or close to individual brood cells, but do not touch
+the larvae or eggs. Workers at the entrance will fan their
+wings to create air currents inside the hive that transfers
+the heat into the water, which is an evaporative cooling
+process.
+
+Guard bees defend the hive against insects such as
+wasps by biting and stinging them. Against larger invaders
+such as mice, honey bees rely on an accumulation of
+workers to sting the animal.
+An adult honey bee worker has a serrated stinger,
+which is intended to lodge in its target. When a honey
+bee stings, it is a one-shot proposition (unlike wasps and
+many ants).
+The honey
+bee loses its
+stinger and the
+venom gland
+from inside
+its abdomen,
+then dies
+shortly
+afterward.
+
+A Call to Arms
+
+Honey bee colonies represent an incredibly rich and uncommon food resource. Pounds of honey and thousands
+of vulnerable and protein-rich larvae inside the hive
+make a tempting target for any animal brave enough to
+tear into it. Honey bees will aggressively defend the resources they have worked so hard to collect, process, and
+store because their future depends on them. In fact, the
+venom in their sting is a potent deterrent to many mammals, although it is sometimes insufficient to completely
+keep them at bay.
+Workers known as guard bees defend the entrance
+against marauding insects and mammals that try to gain
+access to the hive’s contents. Marauders can include honey bees from other colonies (robber bees), many species
+of yellow jackets, as well as, mice, skunks, raccoons and
+bears. Honey bees must be particularly vigilant when
+foragers from other colonies attempt to rob honey
+after the last fall flowers have bloomed.
+
+Bees standing guard at a hive entrance.
+
+Invading or sick honey bees are killed and removed from the hive.
+
+22
+
+Bees may have poor eyesight, but they have excellent
+olfactory (odor) perception, so they can track invaders
+even as they run away — if you have ever been chased
+by bees, you know this first-hand. The alarm pheromone
+recruits more members of the hive to come to the site
+of the “battle” and offer their assistance.
+
+The embedded stinger continues to pump venom,
+appearing like a very tiny beating heart. But perhaps
+more importantly, it smears the area with an alarm
+pheromone that alerts other bees of immediate and
+impending danger, and it marks the spot for others
+to sting. That’s why one sting often leads to more in
+short order. If you’ve ever been stung by a bee and taken the time to observe the spot, you will see the gland
+on your skin. If you carefully scrape off the stinger and
+venom gland (as opposed to crushing or swatting at it),
+less venom will be pumped into the site of the sting.
+
+Airlifting the Dead, Deformed,
+Diseased, and Dying
+
+It is common for dead, deformed, diseased, and dying
+bees to be found in or near a hive by other colony
+residents. A group of bees quickly identifies and drags
+these bees out of the colony — sometimes close to the
+entrance, but often farther away.
+
+STING & DIE
+BARBED STINGER
+
+An undertaker bee transports a dead or dying bee away from the hive.
+Undertakers often fly off with dead or diseased bees.
+
+Workers have barbs on their
+stingers. When a worker stings,
+her fate is sealed immediately.
+She dies when the stinger and
+part of her abdomen (including
+a venom gland that keeps
+pumping) remain in the victim.
+
+The bees that do this job are called undertaker (or
+mortician) bees. Sometimes, undertaker bees actually
+pick up their dead sisters and fly away with them. They
+remove them from the hive for hygienic purposes — to
+get them away from the colony where healthy bees will
+not come in contact with them.
+When dead bees are deposited at the entrance, they
+are often consumed by ants, yellow jackets, and other
+scavengers.
+
+STING OR NOT
+The drone (male bee) does not
+have a stinger, so he is totally
+harmless. The queen bee does
+have a stinger, but it is not
+barbed like the worker’s. The
+queen’s stinger is slightly curved
+(like a samurai sword). The
+queen can repeatedly sting
+without harming herself, but she
+only stings when she battles
+other queens. A queen will not
+sting you even if you hold her in
+your closed fist.
+
+DIFFERENT VENOM
+
+This wasp is
+preparing to
+take a dead bee
+to its colony.
+
+Honey bee venom is different
+than yellow jacket and paper
+wasp venoms. One of the
+reasons why people develop
+strong allergic reactions to bee
+stings is because of proteins that
+trigger the immune system to
+respond.
+
+23
+
+Building and Maintaining
+a City of Wax
+Beekeepers learned many centuries ago that bees could
+be housed in hollow logs, clay vessels, and wovendomed straw baskets (called skeps). The problem was
+that removing the wax and extracting the honey meant
+the container had to be destroyed, because the combs
+were haphazardly positioned within these containers.
+Inevitably, some combs with honey would go to waste.
+So, for harvesting honey, the invention of the
+Langstroth hive, which was patented in 1852, was an
+important advance for beekeepers. Lorenzo Langstroth
+was a Philadelphia theologian who built a wooden
+honey bee hive with removable frames that was simple
+to assemble, inexpensive, and relied on materials that
+were portable and reusable.
+
+Langstroth and others observed that honey bees
+filled in spaces that were either smaller or larger than
+the width of one bee. If the space was too small for the
+bees to pass through, they would seal the space with
+propolis. If the space was too large, the bees add comb
+to fill the larger space.
+In either case, the frames become attached to one
+another, which prevented the beekeeper from readily pulling individual frames out of the hive. This optimum space became known as “bee space,” and when
+Langstroth built his hive, he made sure the frames were
+spaced apart by the width of one bee (3/8 inch), which
+allowed the frames to remain largely unattached to
+each other.
+
+The spacing between each frame in a bee box is crucial to ensure that beekeepers can remove them easily.
+
+24
+
+The Langstroth hive’s many benefits include:
+• Removable frames that allow beekeepers to easily
+harvest honey
+• Reusable frames that allow honey bees to reuse
+the wax in their comb
+• A scalable system that makes it easy for beekeepers
+to add boxes on top to provide bees more space to
+store honey
+• A way for beekeepers to inspect bees without
+disrupting the colony
+• A simple screen (called a queen excluder) that can
+be used between boxes to keep honey and brood
+frames separate
+• The ability to fill frames with a healthy brood as
+“transplants” to start a new hive or reinforce a
+weaker hive
+• A way to readily transport colonies from one
+location to another, which allows beekeepers
+to move bees from coast to coast for commercial
+pollination services
+The Langstroth hive is largely unchanged from its
+original design. The adoption of the Langstroth hive is
+credited with creating the commercial bee industry and
+making it popular for hobbyists to raise honey bees.
+
+A wax-coated plastic foundation.
+
+Drawing Your Home’s Blueprint
+on a Foundation
+
+Each wooden frame encloses a plastic or wax foundation. It is this vertical foundation that lets beekeepers
+control where the bees build their honey combs.
+Without the foundation, bees will build combs in
+whatever direction that makes use of the available
+space, which means beekeepers could not remove
+each frame without damaging the combs. An additional advantage of using a plastic or wax foundation
+is that it gives the comb structural stability and
+support when filled with honey.
+
+25
+
+Bottom Board and Brood Box
+
+1
+
+The bottom board provides a landing pad and
+an entrance-exit from the hive. It also provides a
+platform for bees to ventilate the hive during the
+hottest days of the year.
+You can think of the brood box as the hive’s
+nursery. It consists of one or more boxes where the
+queen lays eggs and workers feed developing larvae.
+Beekeepers do not harvest any honey from the
+frames in the brood boxes.
+
+Assembling the
+Langstroth
+Bee Box
+
+Inner Cover
+
+4
+
+The inner cover is the hive’s ceiling. An elliptical hole
+in the center provides ventilation. The inner cover
+provides the proper bee space so bees do not glue
+it to the outer cover with propolis.
+
+26
+
+Queen Excluder
+
+2
+
+Super
+
+The metal or plastic queen excluder prevents the
+queen from leaving the brood box to lay eggs in the
+upper supers. The frame is wide enough for workers
+to pass through, but not the queen.
+
+Outer Cover
+
+3
+
+Honey supers are boxes similar to brood boxes, but
+are typically shorter.
+Each super holds nine to 10 frames to store
+excess honey. As bees fill each super, beekeepers
+add more supers. Beekeepers harvest honey from
+the supers — each weighs 35 to 40 pounds when
+filled with honey.
+
+5
+
+Smoking
+
+The outer cover is the roof that protects
+the colony from rain and snow.
+
+Beekeepers use smoke to disarm the guards who
+recruit bees to sting. The light smoke masks the
+alarm pheromone, so fewer bees are recruited
+to sting. It also induces the bees to engorge
+themselves with honey, which makes them
+more docile and less likely to sting.
+
+27
+
+The Biology of the Honey Bee
+A healthy colony averages between 20,000 to 60,000
+honey bees, but these estimates vary depending on
+the availability of nectar and pollen, time of year, and
+health of the colony. Within the colony, honey bees
+are divided into three biologically and physiologically
+distinct adult castes:
+
+WORKER
+DRONE
+
+1. A single reproductive female known as the
+queen
+2. Several hundred to a thousand reproductive
+males called drones
+3. Thousands of sterile female workers
+While there are differences between the three
+castes, each passes through the same phases of
+development: egg, five larval stages (each stage
+is called an instar), a pupal stage, and adult. The
+number of days to go from an egg to an adult
+varies by caste.
+
+QUEEN
+Honey bees have distinct castes. The much longer abdomen of the queen
+differentiates her from other females in the colony. Drones (males) are
+characterized by larger compound eyes that meet up at the top of the head.
+
+DAYS
+WITHIN
+A STAGE
+BEE CASTES
+EGG
+LARVA
+PUPA
+
+TOTAL
+
+WORKER
+
+DRONE
+
+QUEEN
+
+3
+6
+12
+21
+
+3
+6½
+14½
+24
+
+3
+5½
+7½
+16
+
+days
+
+28
+
+days
+
+days
+
+Food Quality Determines Who’s Who
+
+Over the course of six days, each larva increases in
+size 1,500-fold from the first to the fifth instar stages of
+development. Part of this rapid growth is due to the larvae
+receiving exceptionally rich food during that time. Unlike
+caterpillars and other immature insects, honey bee larvae
+do not have to find (or even chew) their own food — their
+food is optimized so that there is very little processing
+required for them to extract nutrition from it.
+
+Regardless of caste and sex, all larvae are fed royal jelly
+for the first three days after emerging from the egg.
+Royal jelly is a milky fluid rich in protein and lipids that
+is produced by the hypopharyngeal gland located in
+the head of young nurse bees. Nurse bees regurgitate
+royal jelly into the cell with the developing larva. The
+larva floats in its food as it imbibes the royal jelly. The
+larva does not drown, because it has breathing holes
+(spiracles) along both sides of its body and one side is
+always up.
+After those first three days, the type of food the larva
+receives determines whether it will become a sterile
+female worker or reproductive queen. Larvae fully fed
+an unlimited supply of royal jelly will become queens
+and have fully functional ovaries. Those destined to
+develop into sterile females with underdeveloped
+ovaries and drones are kept on a diet of brood jelly
+and bee bread (a mixture of pollen and diluted honey).
+A suite of pheromone cues within the hive determines
+the amount of royal jelly that workers feed developing
+larvae (that is, whether they will rear new queens or
+workers).
+
+Honey bee larvae at the bottom of cells. © Scott Camazine
+
+A late-stage honey bee pupa extracted from its cell.
+The head, thorax, and abdomen are clearly defined,
+along with the legs.
+This photo shows several larvae bathed in highly nutritious royal jelly
+and an egg (upper center). © Alex Wild
+
+Just before the fifth instar, a larva is ready to transform
+into a pupa. The larva (called a prepupa at this point)
+weaves a fine cocoon, and worker bees cap the cell with
+a layer of wax. Pupae do not feed while they are undergoing the transformation (metamorphosis) from a larva
+devoid of appendages to an adult worker bee with six
+legs and two pairs of wings. As the adult bee emerges
+(ecloses), she will clean her cell so it can be reused.
+
+29
+
+A Single Queen
+Regardless of the colony’s size, there is generally only
+one egg-producing queen in the hive at any one time.
+The colony periodically rears new queens as a means to
+disperse and develop new colonies and to replace aging
+and failing queens. It is primarily the type of brood cell
+that tells workers whether to feed the larva food that
+is appropriate for a worker or royalty. Queen cells start
+from wax cups that point down and the bees elongate
+the cell as the queen grows to a shape that resembles
+a peanut.
+A productive queen lives two to four years. She is
+distinguished from the workers by her large size. In
+particular, a queen has an enlarged abdomen that
+extends well beyond the wings and a wider thorax.
+The queen starts laying eggs in late winter or early
+spring. Nurse bees start eating pollen that was stored
+in the fall, which is an essential ingredient for making
+protein and lipid-rich royal jelly. Feeding the queen royal
+jelly stimulates her to lay eggs.
+When fresh pollen is available in the spring from
+plants (such as maple trees) the brood rearing rate
+increases greatly. This begins a spring colony buildup
+during which the queen can lay 1,500 eggs per day.
+
+Drones have large compound eyes that help them locate the
+queen when mating on the wing in drone congregation areas.
+
+Drones
+There are usually 600 to 1,000 drone bees in larger
+colonies. Colonies produce an abundance of drones
+each spring. These male reproductive bees are rather
+unique in that they hatch from an unfertilized egg laid
+by the queen.
+Drones have no father and their genetic makeup
+comes only from the queen. When the queen mates
+with many drones during a mating flight, she stores
+their sperm in her spermatheca, a round organ in her
+abdomen. The queen can control whether an egg that
+is about to be laid is fertilized. She measures the cell
+prior to laying an egg inside it. If it is a larger, dronesized cell, she does not open the valve to allow sperm
+to enter the egg. The egg will then hatch into a drone
+larva.
+Drones are not individuals in the colony workforce.
+Their sole purpose is to congregate outside the hive,
+in drone congregation areas and mate with newlyemerged virgin queens from nearby colonies. Drones
+use their keen eyesight to find females while in flight.
+A drone is easily identified by the large eyes that cover
+much of its head and meet at the top (unlike females
+that have a space between their eyes).
+Drones cannot sting, forage, or help in any colony
+tasks. They are a drain on colony resources and are
+useful only during mating, which occurs while the
+weather is fair. So, when temperatures drop in the fall,
+workers force the drones out of the hive where they
+will die of starvation and cold.
+
+The queen is surrounded by a group of workers (retinue) that
+pick up odor cues from her and spread these info-chemicals
+throughout the hive. © Scott Camazine
+
+30
+
+Workers
+A colony’s success depends on sterile female workers
+that perform virtually all of the work. While foragers
+are seen gathering nectar, pollen, water, and propolis,
+they only represent about 20 to 35 percent of a
+colony’s total workers. The remainder of the colony
+performs key tasks within the hive.
+A worker bee’s lifespan varies with the time of
+year. During most of the year, when the brood nest
+is expanding and foragers are bringing nectar and
+pollen back to the hive, a worker bee may live six
+weeks. During the winter (when activity is much
+slower) a worker bee can live for five or six months.
+When rearing the brood, workers maintain a hive
+temperature of about 93°F. Young workers clean cells,
+feed the queen, remove debris, and add wax to cells.
+Whether it’s feeding larvae, keeping the hive clean,
+or doing the multitude of small tasks involved in
+colony maintenance, these younger adult bees
+reliably transition from one job to the next.
+But there is also flexibility (referred to
+as plasticity) in these task schedules.
+For example, if an off-target
+pesticide application kills a
+large number of foragers,
+young bees may become
+precocious foragers. If all
+of the nurse bees are
+removed from a colony,
+the hypopharyngeal
+glands of older bees
+will become active and
+the bees will revert to
+nursing duty.
+WATER
+Water is deposited
+At about three weeks
+in the hive for cooling
+old, a worker bee that has
+it as bees beat their
+spent the entirety of her
+wings.
+life within the colony is
+ready to take on her final
+and most dangerous task:
+that of a forager working
+outside of the hive. New
+foragers begin by performing
+orientation flights in late
+afternoon around the hive.
+
+There are plenty of necessary tasks within the hive, and most of the colony
+workforce is dedicated to in-colony maintenance. These nurse bees are
+feeding larvae. © Scott Camazine
+
+POLLEN
+Pollen is produced by
+flowers and is used as
+a primary foodstuff in
+a variety of forms for
+bees and larvae.
+
+FORAGER
+
+SPECIALIZATIONS
+
+NECTAR
+Nectar is collected
+from flowers to be
+processed and
+converted into high
+energy fuel for bees.
+
+RESIN
+Resin is collected from
+flowers and trees, then
+mixed with beeswax to
+create propolis, which has
+antimicrobial properties.
+
+31
+
+Hundreds of these soon-to-be foragers fly close to the
+hive, memorizing everything around them in a mental
+map of where the hive is located. Within a few days following the onset of these orientation flights, the foragers
+start scouting for pollen, water, nectar, and propolis.
+For the next couple of weeks, the forager will travel
+back and forth to the hive covering many miles.
+Individual foragers will specialize in collecting either
+pollen, nectar, propolis, or water. However, foragers can
+switch duties — collecting pollen one day, then water
+the next, depending on the information she receives
+from the colony.
+If a returning forager is inundated with receiver bees,
+she not only gets unloaded quickly, she also receives
+positive reinforcement that induces her to continue
+foraging for whatever it was she brought in to the hive.
+
+Additionally, she might perform a bee dance to recruit
+more foragers. This is how the colony communicates
+whether their provisions are in short supply, or relatively
+abundant, and foragers change their foraging patterns
+accordingly.
+The majority of honey bees have a typical round-trip
+flying distance of two to four miles, and travel at a mean
+velocity of about 15 miles per hour. Bees can use the
+nectar in their honey stomachs much like a gas tank.
+If a nectar forager needs energy as she is travelling,
+she will refuel in flight by opening a valve in the honey
+stomach that releases nectar into the midgut.
+Foraging is physically demanding and carries a
+tremendous physiological cost for the honey bee.
+After a few weeks of foraging, a honey bee forager
+has worked herself to death.
+
+HONEY BEE
+NAMES BASED
+ON TASKS
+NURSE HOUSEKEEPER GUARD UNDERTAKER ROBBER
+days
+
+days
+
+days
+
+days
+
+FANNER
+
+RECEIVER
+
+days
+
+HYGIENIC
+
+FORAGER
+
+days
+
+1–2
+
+3–5
+
+6–11
+
+12–17
+
+18–21
+
+22–45
+
+CLEANING
+& LABOR
+
+CARING
+FOR BROOD
+
+ROYAL
+TASKS
+
+CONSTRUCTION
+& DISTRIBUTION
+
+GUARDING
+& COOLING
+
+Bees polish and
+clean cells. Work
+inside the hive is
+paramount.
+
+Bees provide older
+larvae honey and
+bee bread. They
+also cap the
+brood.
+
+Bees feed young
+larvae and larvae
+designated to be
+queens royal jelly.
+
+THE BEES
+HAVE LEFT
+THE HIVE
+
+AGE IN DAYS
+
+Bees produce wax
+for building cells
+and making
+repairs. They also
+transport food
+within the hive.
+
+In-hive house bees
+
+Bees at this
+stage guard the
+entrance to the
+hive and ventilate
+the interior.
+
+Out-of-hive field bees
+
+32
+
+Bees are now
+out in the field
+collecting pollen,
+nectar, propolis,
+and water.
+
+This honey bee swarm
+recently departed from
+a hive, and are in wait
+until they can find a
+suitable harborage.
+Swarms such as this
+one (consisting of about
+20,000 bees) are often
+seen on branches and
+other elevated vantage
+points, while their scouts
+look for a suitable nest
+location.
+
+One Colony Becomes Two
+
+A healthy colony works as a team — some individuals
+take care of the colony while others forage for provisions.
+Depending on nectar flow and colony population size,
+a colony can fill a honey box or “super” in as few as three
+days. When the hive becomes full of brood, honey, and
+bee bread, there is simply no space left to expand. When
+space is limiting, it can induce honey bees to swarm,
+effectively dividing the group in two.
+The existing queen has mandibular pheromone (sometimes called the queen substance) that inhibits the construction of queen cells. As long as the queen is healthy
+and laying eggs, this pheromone prevents the hive from
+developing new queens. This pheromone also suppresses
+ovarian development among the sterile worker females.
+Workers do have a couple of ovarioles, whereas the
+queen has hundreds. Most of the workers’ ovaries are
+underdeveloped, so they do not produce eggs. If a worker
+with developed ovaries lays an egg in a cell, her sisters will
+recognize the egg is not from the queen and they will eat
+it. However, if the queen dies and they are unable to raise a
+new queen, some of the workers’ ovaries will develop and
+the workers will lay unfertilized eggs (drones). Eventually,
+this will lead to the death of the colony, since the colony
+is no longer able to effectively generate worker bees.
+A colony can also die if a queen uses up her supply
+of viable sperm. If that happens, the queen will start
+laying unfertilized eggs (referred to as a drone queen),
+which produce only drones that do not forage or care
+for the colony.
+
+33
+
+In Indiana, swarming happens mostly in May and
+June. As a queen ages, she produces less mandibular
+pheromone. Under crowded conditions, the mandibular
+pheromone is not well distributed through the hive. With
+less pheromone to inhibit queen rearing, workers are
+signaled to start raising queens, and the colony division
+process (swarming) begins about two weeks before the
+old queen leaves. The workers put the old queen on
+“a diet” to slim her down and allow her flight muscles
+to develop in order to fly with the swarm.
+Before swarming occurs, workers usually start five to
+25 queen cells. Any fertilized egg or larva can develop
+into a queen just by providing it a different quality of
+food (royal jelly).
+Workers closely watch the timing of when the old
+queen leaves and the new queens emerge. Sometimes,
+the workers hold the replacement queens as captives
+inside their cells until the old queen has left with the
+swarm. The workers create vibrations on the cells to
+inhibit virgin queens from emerging prematurely.
+The colony requires an orderly process to initiate
+swarming, the old queen must leave and a substitute
+virgin queen must be ready to replace her as soon as
+possible thereafter. Two queens will not co-exist in one
+colony; only one will inherit the colony. But sometimes,
+a large colony will send another swarm, an “afterswarm,”
+with a virgin queen, where a small number of bees
+remain in the nest with a second virgin queen.
+
+(Left) Queen cells are larger
+than worker or drone cells
+and roughly peanut-shaped.
+They are also characterized
+by hanging down vertically
+from the comb. © Alex Wild
+(Right) A queen larvae in
+her cell. © Scott Camazine
+
+The first queen to emerge usually goes to each of
+the other queen cells to kill her rivals while they are still
+pupating unless the workers encourage her to leave in
+an afterswarm. Unlike worker bees who die if they sting,
+a queen’s stinger is not serrated and queens can sting
+repeatedly. If two queens emerge at the same time, they
+will fight to the death. The winner-take-all approach
+means the new virgin queen inherits the hive, the
+brood, and all of its resources.
+
+Just before swarming, honey bees leaving with the
+queen gorge themselves with honey. When a colony
+swarms, the old queen takes about half of the colony
+with her. The swarm will cluster on a branch and send
+out scouts to look for suitable cavities. Swarming is a
+risky business, and most swarms do not survive their
+first winter simply because they cannot build up sufficient colony numbers and resources to last through
+the winter.
+
+Honey bees are cavity-dwelling insects. These photographs show a feral colony
+nesting in the cavity of a tree.
+
+34
+
+Mating on the Wing
+
+After the mating flight, the sperm from the multiple
+matings is mixed together over 48 hours inside the
+queen’s spermatheca, a round organ that stores sperm
+near the tip of the abdomen. The new queen’s spermatheca contains about 8 million sperm that she can use
+to fertilize all of the eggs that she will lay over the
+remainder of her life.
+Beekeepers have developed methods to artificially
+raise queens to replace lost queens, so that managed
+colonies remain “queen right” because virgin queens
+can be killed on mating flights. In addition, artificially
+inseminating queens provides beekeepers with the
+ability to control colony genetics.
+The queen lays her first eggs in the brood chamber
+close to the center of the comb. She will deposit a single
+egg in each cell. Each egg looks like a tiny grain of rice
+and has an opening on the side to allow sperm to penetrate. Eggs that are fertilized with sperm become either
+queens or sterile female workers, while unfertilized eggs
+become drones.
+A queen that runs out of sperm is either very old or
+did not mate with sufficient males. If this occurs, she will
+lay only drones and must be replaced, either by her nest
+mates or by a human caretaker. If an infertile queen
+persists, she will continue to produce drones and the
+colony will die, because she can produce no new workers
+to sustain the colony.
+
+At most, a queen only leaves the hive twice. One is when
+she swarms as the established queen; however, this
+may not happen during her lifetime. All queens depart
+from the hive to mate. After about seven days living in
+the hive, the new unmated queen makes an orientation
+flight to familiarize herself with the hive’s location. Soon
+after, the virgin queen leaves the hive on an afternoon to
+find the drones.
+
+A rare photograph of a queen and drone mating on the wing. © Eric Tourneret
+
+Drones usually take mating flights in the afternoon.
+Drones fly to specific congregation areas where multiple
+males wait for virgin queens to appear. The drones will
+fly for about 45 minutes before returning to the hive to
+refuel with honey. Drones may repeat this process multiple times during the day. The vast majority of drones
+never mate.
+On her mating flight, a queen flies toward a drone
+congregation area. Once there, the queen’s pheromone
+attracts the attention of the males. She will mate about
+60 to 100 feet off the ground with 12 to 18 drones. Each
+male will grasp onto the queen and evert their aedeagus
+(penis) to mate with the queen in flight. The drone will
+die soon after mating is complete. The queen returns
+to the colony, which she will not leave again unless it
+is time for her to swarm.
+
+Larvae and eggs can often be found in the same comb. © Scott Camazine
+
+35
+
+Healthy colonies are typically able
+to survive North American winters.
+
+The Winter Cluster
+
+Honey bees do not hibernate. Because they are small,
+a bee’s internal temperature will rapidly take on the
+outside temperature, which can be lethal during a North
+American winter. However, Western or European honey
+bees have adapted a survival strategy of clustering
+together in a mass to generate and conserve heat.
+In late fall, a bee colony contains about half the number
+of adult workers it had in the summer, but there is no
+brood to care for, and foraging is complete for the year.
+The colony’s goal heading into winter is to maintain
+sufficient temperatures to keep the colony alive. Bees
+accomplish this by forming a tight ball (cluster), which
+is interrupted by wax combs that provide insulation.
+On the outside of the cluster are a mantle of bees
+that connect their legs together and essentially form a
+shell. These bees serve as a heat shield to help retain the
+heat within the cluster. In the interior, workers perform
+“isometric exercises,” while remaining virtually motionless and vibrate their thoracic muscles. Shivering their
+muscles generates heat.
+Individual bees take turns heating themselves to
+almost 100°F. Other bees will fan their wings to disperse
+excess heat, and regulate the amount of carbon dioxide
+in the cluster. The individual bees take turns heating
+themselves up, fanning, and serving as mantle bees,
+rotating in and out of the ball with the queen safely
+in its center.
+
+Winter can be the final stressor that finishes off unhealthy bees and weak hives. It is typical for 15 to 28
+percent of all hives to not survive the winter. There are
+two factors that allow bees to endure frigid winter
+temperatures:
+1. Enough stored honey that the bees can eat
+2. An adequate number of bees to cluster and keep
+the overwintering colony warm
+If the colony is insufficiently strong going into winter,
+or it does not have enough provisions to last through
+the winter, its chances of survival are greatly reduced.
+Second to Varroa mites, winter starvation is believed
+to be the most common cause for colony mortality.
+
+Note the dead bees in this comb and the empty honey cells. Most of the bees
+on this comb died while searching for food. © Alex Wild
+
+36
+
+HEAT GENERATOR
+Worker bees do isometric
+exercises to their thoracic
+muscles raising their
+temperature to almost
+92° F when incubating
+brood in the nest.
+
+A WARM HEART
+OF THE HIVE
+
+THE FAN
+Other bees fan their
+wings to disperse
+excess heat to keep
+the temperature
+regulated.
+
+HOT IN THE CORE
+A tight ball of worker
+bees form in the core to
+generate heat to keep
+the queen at 70°–80° F.
+Honey, also in the core is
+the high octane fuel for
+the bees.
+
+HEAT SHIELD
+Bees form a mantle by
+linking their legs and
+function as a heat shield
+to keep warmth inside.
+
+They do not heat the whole hive, but focus on keeping
+the core of the cluster (where the queen is) at 70-80°F.
+When the bees begin rearing brood again in late winter,
+they will need to increase the temperature of the hive
+to 93°F. Generating all that heat requires more honey
+to fuel the energy the bees are expending. So, stored
+honey is located nearby the cluster. The cluster will stay
+in one area until they have depleted the honey reserves.
+Without food, the bees are forced to move to a new area
+of the comb that contains honey.
+Honey bees that experience extended periods of
+cold can still face serious problems. If -10°F temperatures
+persist for weeks on end, bees can become chilled to
+the point that they are unable to move to the comb
+to where honey is stored. Prolonged cold can kill the
+cluster, and bees starve to death when they are unable
+to access honey.
+
+These photos show a cluster of honey bees in late February. Within
+minutes, the bees on the lid (on the left side of the bottom photo) were
+dead, because there were not enough bees to keep them from freezing.
+
+37
+
+Death Is a Way of Life
+Colony strength and hive health are linked to having
+a large population of multi-aged workers, working inside
+and outside the hive. A thriving colony of 40,000 bees
+will lose hundreds of foraging bees each day. Foragers
+represent about 20 percent of the total number of bees
+in a colony, but each day, 10 percent of these foragers
+will die from old age, predators, and weather events. This
+means that the colony needs to replace approximately
+800 foragers daily.
+
+Now that we know more about how a honey bee colony
+lives and operates, we can begin to examine the factors
+that can cause a colony to die prematurely.
+A colony’s survival is based on overcoming constant
+losses from biological, environmental, and chemical
+stresses. From the colony perspective, a forager that
+dies from pesticide exposure or Varroa mites would be
+no different than one of many possible natural causes
+of death.
+There are feedbacks within the hive that ensure bees
+are replaced. However, there are limits to the colony’s
+ability to bounce back. Continuous large losses can be
+detrimental to the hive’s health and survival. For social
+insects like honey bees, death is accounted for by having
+the queen lay 1,000 or more eggs each day as part of the
+biological cycle.
+
+Although their
+sting is a potent
+deterrent, many
+predators —
+including spiders
+(top right) and
+mantises (left) —
+are able to catch
+and eat honey
+bees. The carpenter
+ants in the bottom
+right photo are
+dismembering
+dead honey bees.
+
+© Scott Camazine
+
+© Scott Camazine
+
+38
+
+Honey bee research
+is one of the largest
+subdisciplines in
+entomology. Research
+is underway to respond
+to contemporary honey
+bee challenges. Here,
+scientists inspect hives.
+
+Bees can react to their environment in many ways
+depending on season, temperature, and food supply.
+Bees can produce less brood when the hive is crowded,
+and the queen lays fewer eggs when food and other resources are reduced or unavailable. By the same token,
+the queen can increase egg production when necessary.
+Of course, there are times when a colony’s recuperative
+abilities are insufficient to maintain its population.
+Every honey bee colony has a tipping point — a point
+when the population gets so low that recovery is difficult, if not impossible. In those cases, it is only a matter
+of time before the colony fails. A dying colony is not
+always due to factors from outside the hive. A colony
+can struggle when an older queen is laying fewer eggs,
+or she runs out of stored sperm and begins laying infertile eggs.
+This is one of the main reasons why workers will rear
+a new queen to kill and replace the older, failing queen.
+If the queen is failing and not replaced in time, the colony
+may be “short-staffed” in terms of both foragers and
+guard bees. Without enough guard bees protecting the
+hive entrance, invading hive beetles, bees, wasps, and
+even mammals can more easily gain entry into the hive
+and wipe out the food supply and brood.
+Additionally, Varroa mite infestations and diseases
+have been shown to reduce the life span of adult bees
+by as much as 50 percent. Given that colonies do not
+lay down brood in the winter and that winter bees must
+
+sustain colony temperature until the spring, short-lived
+winter bees may result in a smaller cluster size that endangers colony survival.
+As with any loss of honey bees, when a pesticide or
+extreme cold kills a large number of foragers, the colony
+must compensate for this loss. How honey bees respond
+to these population losses depends on what kind of
+condition the colony is in and the extent of the loss
+(both in terms of numbers of bees affected and the
+duration of the stress).
+Combinations of stressors may weaken a colony
+below its tipping point (that is, below the numbers
+of bees needed to sustain a colony). For example,
+outbreaks of individual stressors (such as Varroa mites,
+disease, or low food reserves) can combine to weaken
+a colony and make it more susceptible to cold. It is important to remember that honey bees never encounter
+stresses in isolation — they are always subject to a variety of environmental stresses, both inside and outside
+the hive.
+Some of these stressors (such as abnormally cold
+temperatures, wind blowing pesticide drift onto flowering plants, etc.) are beyond a beekeeper’s control.
+Although you can blame a colony death on one particular factor, it may be the timing of the event that is key —
+the colony may have already been weakened and that
+single factor could have been the proverbial last straw
+that pushed the colony beyond the tipping point.
+
+39
+
+The Four P’s that Affect Bees
+colony-level effects of pesticides can vary greatly based
+on when the bees were exposed.
+For example, in the spring and early summer, a colony
+is growing because nectar and pollen are abundant.
+So, at these times, losses from a pesticide application
+may not be as significant or as noticeable if the same
+number of deaths occur in late summer and early fall
+when the hive is in natural decline and the colony
+requires a minimum level of bees (cluster size) to keep
+the colony warm during the coming winter.
+
+When it comes to the factors that affect honey bees,
+we can look at the four P’s:
+1. Pathogens
+2. Pests
+3. Poor nutrition
+4. Pesticides
+Although multiple factors (either singularly or in
+combination) can threaten a colony’s ability to survive,
+it is the fourth P (pesticides) that can be particularly
+challenging for bee colonies when bees forage in
+treated agricultural or nonagricultural sites. The
+
+THREE STRESSORS TO A HIVE
+R AI N
+
+WIN
+D
+
+OW
+SN
+
+DR
+OU
+
+FU N G U S
+
+S
+RA
+PA
+
+S
+ITE
+
+NT
+AL
+
+CA
+
+L
+
+AL
+MI
+
+CH E
+
+GIC
+
+HIVES UNDER ATTACK
+
+The colony is faced with many
+potential threats to its
+livelihood. Mitigating these
+threats is a constant struggle.
+
+40
+
+FIRE
+
+01 0203
+
+IA
+
+B I O LO
+
+ME
+
+S
+
+A
+IR
+
+TER
+BAC
+
+ON
+
+IN
+
+NTS
+PLA
+IN
+
+E NVI R
+
+ON
+
+U
+S
+
+OR
+AT
+ED
+
+IN WATER
+
+PR
+
+VI
+R
+
+GH
+T
+
+H
+NEC
+
+THROUGH
+
+BY A I R
+
+TAR
+
+A
+RISKY
+TRIP
+A
+BY W TER
+
+There are many
+potential routes
+of exposure to
+pesticide residues
+on a typical
+foraging trip.
+
+TOPSOIL
+BY
+
+P
+
+G
+
+O
+
+THR
+OU
+
+EN
+LL
+
+However, there can be serious short-term repercussions of turning nurse bees into foragers, such as
+having fewer workers available to rear brood, control
+temperatures, and clean the hive. Precocious foragers
+may be more susceptible to predation, because they
+have not had sufficient time to learn how to forage effectively, or their body physiology is not yet developed
+to meet the rigors that come with constant foraging.
+Precocious workers often have shorter lifespans and,
+at least initially, tend to be less efficient foragers.
+As we will explore in the sections that follow,
+pesticide exposure is not always easy to characterize.
+Pinpointing a cause can be a real challenge.
+
+A colony will employ safeguards to stay viable,
+even after many bees have been killed. If an event
+kills too many foragers, the colony will have nurse
+bees accelerate their behavioral development and
+become precocious foragers. On the other hand, if
+pesticide residues were brought to the hive in the
+pollen or nectar and kills nurse bees, then some of
+the foragers can revert back to working inside the
+hive. These are biological responses that help the
+colony buffer itself against higher than normal losses
+(that is, compensate for or recover from such losses).
+
+41
+
+Routes of Pesticide Exposure
+from Field to Hive
+The public, scientific community, and regulatory agencies
+have increasingly focused on the effects that pesticides
+have on honey bees and (to a much larger extent) the
+pollinator community as a whole. There are legitimate
+concerns for honey bees, because some insecticides will
+kill bees at very low concentrations.
+Just like targeted insects, nontarget insects such as
+honey bees can encounter pesticide residues directly by
+coming into contact with spray droplets or dust particles
+during application. Bees can be exposed while landing
+and foraging on treated surfaces such as leaves and
+flowers (contact exposure). They can also be exposed
+
+to pesticides by ingesting contaminated pollen and nectar
+from treated plants or by ingesting water that has been
+contaminated with a pesticide (oral exposure).
+Also, plants can take up certain systemic pesticides
+through their roots or leaves. The plant then distributes
+these systemic pesticides to other parts of the plant, such
+as pollen and nectar, which the bee can then ingest.
+Whether exposed to pesticides by contact or ingestion,
+forager bees can move pesticide residues into the colony.
+The foragers serve as an unwitting route of exposure for
+in-hive bees (including nurse bees, the brood, and the queen)
+when foragers drop off a load of tainted pollen or nectar.
+
+This photo shows hundreds of poisoned bees outside of a hive. To be certain that the bee die-off was caused by a pesticide often requires collecting freshly killed
+or dying bees and promptly freezing them for chemical analysis.
+
+42
+
+It is important to remember that pesticides are not
+just used on agricultural crops or in residential settings.
+The beekeeping community also uses pesticides to control pests such as Varroa mites, small hive beetles, and
+wax moths. Beekeepers apply some of these compounds
+directly to the interior of the colony to control pests,
+such as the Varroa mite.
+The importance of each exposure route depends on
+several factors:
+• How the pesticide was applied
+• The pesticide’s properties — How long can it
+persist on flowers and in water? Is it mobile in
+plants? Is it volatile?
+• How close the hive is to the treated area
+• How susceptible the bees are to the pesticide
+(toxicity)
+
+A forager can bring pesticide residues back to the hive in pollen, in water,
+in nectar, or on her body. © Alex Wild
+
+Within a two- to three-mile radius around the hive,
+and depending on the toxicity of the pesticide to the
+bees, direct contact with the chemical during application
+or contact with recently treated foliage can directly kill
+foragers visiting blooming crops or ornamentals in a
+garden. While large bee kills are uncommon, a bee kill
+from pesticides can devastate a colony.
+Investigators often link bee deaths to insecticides
+applied directly to blooming landscape trees, fruit trees,
+and crops. Depending on the extent of exposure and the
+pesticide’s toxicity, bee kills can result in the outright loss
+of a colony or cause such significant losses to a specific
+caste (such as forager bees or the brood) that it considerably weakens the colony.
+When pesticides are applied during bloom, residues
+can remain on flowers, pollen, and nectar, and be transferred to the bee through contact exposure. The amount
+of potential residues depends on the environmental conditions and pesticide’s characteristics.
+Bees in flight can also be exposed to pesticide drift of
+dusts or liquid droplets in the air — the pesticide is often
+carried off-target by the wind. Experience with residue
+studies of different pesticides in pollen and nectar of
+multiple crops and ornamental plants show that this will
+depend on pesticide properties, application timing and
+crop/plant features. If an applicator applies pesticides
+during the evening when bees are inactive, some pesticides can dry before bee activity resumes the next day.
+The flowers of certain crops and plants are neither attractive to honey bees or they remain closed during application, which leads to low residues in pollen and nectar.
+
+Workers feed and
+groom the queen.
+© Alex Wild
+
+Foraging bees can bring pesticide residues into the
+hive and transfer them to receiver bees and other foragers through a process known as trophallaxis. When the
+returning forager bee regurgitates the contents of its
+honey stomach to its nest mates, the receiver bees place
+the contaminated nectar in cells to make honey. Later,
+adult bees will consume the honey that contains pesticide residues.
+A similar exposure can occur with pollen. Nurse bees
+consume more stored pollen (bee bread) than any of the
+adult castes in the hive. They use bee bread to produce
+royal jelly and brood jelly, which in turn is fed to the developing larvae and the queen. If the bee bread contains
+pesticide residue, then the pesticide may be expressed
+in the secreted jelly. Because of the way bees share and
+store food throughout the colony, the entire colony
+could be exposed to pesticide residues from a single
+exposure event.
+
+43
+
+HOW PESTICIDE EXPOSURE SPREADS
+
+01
+
+FORAGERS
+Foragers return with contaminants
+on their bodies and on the foraged
+goods they bring home.
+
+02
+
+RECEIVERS
+These bees take contaminated
+product from foragers and bring it
+into the hive and put it into cells.
+They become affected.
+
+03
+
+HONEYCOMB
+Comb wax can be affected as
+contaminated bees come into
+contact with walls.
+
+04
+
+NURSES
+HONEY
+
+Nurses take soiled pollen and nectar
+and make food products with them.
+They become affected.
+
+POLLEN
+
+05
+
+FOODS
+Contaminated nectar and pollen can
+lead to pesticide residue in foods fed
+to developing bees.
+ROYAL JELLY
+
+BEE BREAD
+
+PROCESSED POLLEN
+
+LIFE STAGES
+Larvae, pupa and young bees
+are fed contaminated foods. They
+are affected and develop that way.
+
+06
+
+LARVA
+
+PUPA
+
+WORKER
+
+ADULT ROLES
+Having been fed affected food
+during their development, young
+bees grow into adult roles—now
+affected.
+
+07
+
+NURSE HOUSEKEEPER GUARD
+
+FANNER
+
+RECEIVER
+
+HYGIENIC
+
+QUEEN & DRONE
+The queen and drones are fed
+affected foods and come into
+contact with affected bees.
+
+08
+FIELD BEES
+DRONE
+
+New external bees are ready to leave
+hive. They are already affected.
+
+QUEEN
+
+CYCLE BEGINS AGAIN
+
+09
+
+FORAGER
+
+ROBBER
+
+UNDERTAKER
+
+44
+
+Everything is Poisonous at Some Dose
+
+The 16th century philosopher and pioneer of toxicology,
+Paracelsus, is credited with coining the phrase “The dose
+makes the poison.” This phrase remains one of the guiding
+tenets of toxicology.
+But it’s worth quoting Paracelsus more accurately here:
+“[A]ll things are poison and nothing is without poison; only
+the dose makes a thing not a poison.”
+This full statement recognizes that all organic, inorganic,
+natural, or synthetic chemicals (even water) are capable
+of being toxic at some dose. A toxic dose differs from one
+chemical to the next because of how the chemical is applied, its mode of action, and whether the chemical can be
+metabolized and/or excreted.
+When it comes to pesticides, there is always an exposure
+level that will not measurably affect bees. But as pesticide
+exposure increases, bees will begin showing sublethal effects — not unlike a person affected by a drug or disease.
+These effects are often expressed as impaired behavior —
+their activity level may greatly increase or decrease, or they
+may feed notably less. Increasing the exposure level can
+lead to death, which is what beekeepers and other observers most often notice.
+A comparison to medicines can explain the concept that
+the dose makes the poison. If you take the recommended (therapeutic) dose of a medicine like aspirin, it should
+relieve your pain or fever. But exceeding the therapeutic
+dose can lead to adverse reactions and even death. A dose
+that is too low will have no curative effect, but a dose that
+is too high may kill.
+Scientists studying bee biology have shown that there
+are many ways individual bees and the colony can be exposed to pesticide residues. As long as pesticides are used
+outdoors and in areas where bees are foraging, bees will
+come in contact with pesticide residues.
+So, a more relevant question is: At what concentration
+(dose) will a pesticide exposure in the environment harm
+an individual bee or the colony?
+One of the difficulties in determining the risk to bees
+from pesticide exposure is that bees forage widely in the
+landscape, and pesticide exposure can come from many
+sources. In addition, honey bees are social animals and the
+survival, growth, and reproductive success of the species is
+measured at the colony level, rather than at the individual
+bee level.
+In other words, it can be difficult to determine the precise
+dose that a foraging bee or its colony will be exposed to.
+Determining colony-level effects is complicated by a
+number of factors including:
+
+45
+
+• When the pesticide was encountered and how
+often it was encountered — was this a one-time
+acute exposure or a long-term chronic exposure?
+• Whether the pesticide exposure was limited to
+contacting foragers in the field
+• Whether the exposure was dietary — that is, did
+bees consume the pesticide in the pollen, nectar,
+or water brought back and stored in the hive?
+These are the challenges that risk assessors face when
+they must determine the potential risk of pesticides to
+honey bees and other pollinators.
+In general, researchers determine how sensitive bees
+are to a pesticide through laboratory tests and in some
+cases, in field studies. The challenge is to determine
+whether a specific pesticide’s active ingredient:
+• Adversely affects the various castes and age
+classes of honey bees
+• Risk to individual bees poses a challenge for
+the inner workings of the colony
+• Presents an unreasonable risk compared to its
+potential benefits
+So, when answering the question, “Will applying this pesticide present a risk to honey bees?” we first need to define risk.
+Risk is defined as the magnitude and likelihood of an adverse effect. It is important to remember that risk is a function of exposure and toxicity. You may know a particular
+compound’s toxicity, but if you don’t know the environmental exposure estimates, or you have exposure estimates but
+don’t know the toxicity, you only have part of the equation
+and can’t adequately determine risk.
+Scientists study the biological response of honey bees
+by exposing the bees to varying doses of a pesticide (under
+laboratory or field conditions).
+If the pesticide level in the environment is less than what
+is known from laboratory acute and chronic studies to
+cause no harm, then the presumption is that the pesticide
+will pose minimum risks to honey bees for the life stage
+tested (such as adult bees or larvae).
+If the pesticide level in the environment is higher than
+those shown to produce acute or chronic effects in adult and/
+or larval bees, then the presumption is the product poses risk.
+As we can guess from our understanding of bee biology,
+evaluating risks to honey bees presents a challenge. The
+hive is a colony of individuals that essentially acts as one
+individual. That means risk assessors must assess the risk
+that a pesticide poses to individual bees at different levels
+of organization (individual bee larvae, adult workers,
+queens, drones) plus the colony as a whole.
+
+The EPA Risk Assessment Process
+The Federal Insecticide, Fungicide, and Rodenticide
+Act (FIFRA) — one of many laws authorizing the EPA to
+regulate pesticides — defines a “pesticide” as “any substance or mixture of substances intended for preventing,
+destroying, repelling, or mitigating any pests; any substance or mixture of substances intended for use as
+a plant regulator, defoliant, or desiccant; and, any
+nitrogen stabilizer.”
+
+The U.S. Environmental Protection Agency (EPA) is tasked
+with (among other things) licensing the sale, distribution,
+and use of pesticides.
+Pesticide is an inclusive term that describes the thousands of EPA-registered products used to manage insects,
+weeds, plant diseases, and others pests. Beyond that simple definition, this term has regulatory implications: The
+EPA must evaluate whether each active ingredient passes
+current health, safety, and environmental guidelines.
+
+THE EPA AS A GATEKEEPER
+
+1 2
+ANALYZE DATA
+
+TEST PRODUCT
+
+Manufacturers give data
+to the EPA who analyze it
+and verify it is accurate.
+
+A
+
+R
+
+C
+
+E
+
+M
+
+N
+
+Laboratory and field
+studies are conducted to
+determine product safety.
+
+U FA T U R
+C
+
+DETERMINE USE
+
+REEVALUATE
+PESTICIDES
+
+Label is finalized based
+on intended use and
+safety, and product
+is licensed for sale.
+
+Pesticides are
+evaluated on a
+15 year schedule.
+
+4 3
+46
+
+US
+
+TO ME
+
+R
+
+For many, “pesticide” is a word with negative connotations, yet pesticides are no more inherently dangerous
+than medicines. If used properly, medicines can manage
+human ailments. The risk posed by medicines varies
+considerably, and depends upon the specific drug, its
+chemical composition, the dose taken, and the age of the
+person taking the medication. The same principles hold
+true for pesticides.
+
+The EPA Office of Pesticide Programs (OPP) is authorized to determine whether a pesticide can be used in a
+manner that will not pose an unreasonable risk to human
+health or the environment. When a company submits a
+new pesticide to the EPA for review, the company (called
+the applicant at this stage) includes a proposed label.
+Once a chemical is registered, the company that owns
+the label is referred to as the registrant.
+The EPA uses the company’s proposed label as a foundation for a formal risk assessment. Thus, it is the label
+that the EPA approves and registers as part of the licensing process based on a broad range of environmental
+fate, human health effects, and ecological effects data.
+Honey bees and pollinators play an important role in
+the environment. That’s why the EPA convened a scientific advisory panel in 2012 to examine the procedures for
+assessing pesticide risk to bees. The panel was composed
+of recognized experts in the fields of toxicology, Apis and
+non-Apis bee biology, statistics, and risk assessment. The
+EPA also consulted various agencies, including Health
+Canada’s Pest Management Regulatory Agency and the
+California Department of Pesticide Regulation. The panel
+agreed that additional testing was warranted to determine
+the potential effects pesticides could have on non-Apis
+bees. They also agreed with specific protection goals
+(see Specific EPA Protection Goals).
+
+Healthy larvae (like these) are the goal of every beekeeper. One of the EPA’s
+goals is to make sure that pesticides do not pose too great a risk to colony
+survival. © Alex Wild
+
+SPECIFIC EPA PROTECTION GOALS
+EXAMPLE MEASUREMENT ENDPOINTS
+PROTECTION
+GOAL
+
+ASSESSMENT
+ENDPOINTS
+
+POPULATION LEVEL
+AND HIGHER
+
+INDIVIDUAL
+LEVEL
+Individual worker and
+larval survival assays;
+larval emergence;
+queen fecundity/
+reproduction
+
+Contribution to
+bee biodiversity
+
+Species richness
+and abundance
+
+Individual bee survival
+(solitary bees) and
+colony strength and
+survival (social bees)
+Species richness
+and abundance
+
+Provision of
+pollination services
+
+Population size 2 and
+stability of native bees
+and commercially
+managed bees
+
+Colony strength and
+survival; colony
+development
+
+Individual worker and
+larval survival assays;
+queen fecundity;
+brood success;
+worker bee longevity
+
+Production of
+hive products
+
+Quality and quantity
+of hive products
+
+Quantity and quality
+of hive products;
+including pesticide
+residue levels on
+honey and wax
+
+Individual worker and
+larval survival assays;
+queen fecundity/
+reproduction;
+larval emergence
+
+47
+
+All of these species differ in their biological and life
+cycle traits, including body size and sociality. Honey bees
+and non-Apis bees may also differ in other traits such as
+flight season, number of generations, floral specialization,
+or nesting behavior. All these traits may provide different
+exposure routes or exposure levels among the species.
+One answer to the question is that when assessing a
+pesticide, a researcher can extrapolate test results from
+individual female worker social bees to female solitary
+bees. Although the solitary bees do not form colonies,
+they do perform a variety of functions such as laying
+eggs, foraging, and caring for offspring. The results of
+testing the effects of a pesticide on the colony is thought
+to be equivalent to measuring the impact on social bees;
+however, some social bees (such as Eastern bumble bee,
+Bombus impatiens), may overwinter as a single organism
+as opposed to a colony.
+A second frequently asked question is: Don’t all species
+of animals and plants have a different potential response
+to a pesticide?
+On a biochemical level, species are more similar physiologically than they are dissimilar. Most species share
+similar physiological processes, signaling molecules, and
+chemical pathways that provide the rationale for why the
+toxic effects in a surrogate species are likely to be similar
+to other animal and plant species.
+For instance, a pesticide that has a mode of action that
+affects a honey bee’s nervous system would be expected
+to have a similar mode of action and overt effects on other insects, including pollinators. Researchers can extrapolate effects to other species by understanding how much
+the indicator species shares physiological processes with
+other species in its group of species (called a taxon), and
+to some extent across taxa.
+While surrogate species work well in estimating risks,
+there is always the possibility that differences exist between species. This is why the EPA uses other lines of
+evidence — such as the scientific literature and incident
+reports (bee kills) — to determine whether there are differences. Plus, in order to address concerns about the
+honey bees serving as the sole surrogate for a host of
+beneficial insects, regulatory authorities collaborate with
+researchers to expand toxicity tests to include non-Apis
+species. However, the same uncertainty about interspecies variability will apply to these other species if (or
+when) researchers can develop suitable testing protocols.
+Let’s examine how the EPA currently assesses the risk
+pesticides can pose to bees and other pollinators.
+
+The panel reviewed the procedures for how the EPA
+assesses pesticide risk to honey bees and other pollinators. They also suggested how to revise and add procedures to better protect these important species. In short,
+the EPA is always investigating ways it can refine and
+improve the process of assessing pesticide risk to bees.
+
+The Honey Bee as a Surrogate for Insect
+Pollinators
+
+Even so, assessing a pesticide’s risk to insect pollinators
+can be complicated. It’s important to understand that
+the EPA doesn’t require a registrant to test the effects
+of their pesticide on every possible insect species. It is
+logistically impossible to test all species that may be
+exposed to a given pesticide in the environment. Some
+species remain unknown to science and some are endangered. Researchers do not fully know the vast majority of
+nonmammal species, so it isn’t possible to routinely test
+all these species under laboratory conditions.
+That’s why it is common to extrapolate toxicity studies conducted on one organism (called a surrogate or
+substitute) to a broader number of related organisms.
+Surrogate species testing is a foundation of toxicology.
+Using a single species to extrapolate the effects of
+pesticides on others continues to be controversial. In
+the case of pollinators, one frequently asked question is:
+How can a single species like the honey bee be a reasonable surrogate for the thousands of solitary and social
+non-Apis bees?
+
+48
+
+A Host of Questions to Answer
+
+• Is the pesticide water-soluble, volatile, or subject
+to atmospheric transport?
+• Is the pesticide mobile or immobile in water
+and soil?
+• At what rate does the pesticide break down in
+the environment?
+• If the pesticide breaks down, are its by-products
+similar enough to the parent compound to cause
+concern? In other words, are the by-products toxic?
+• At what concentrations do the laboratory studies
+indicate adverse effects following a single (acute)
+versus repeat (chronic) exposure?
+• Are there data to assess the relative sensitivity
+of other non-Apis bees?
+
+As part of the federal review and product registration
+process, the EPA bases its decisions to accept or deny
+a product registration based on:
+• Legal mandates contained in FIFRA
+• Scientific data from active ingredient-specific
+and product-specific tests
+• Public policies that determine the acceptable
+risks to human health and the environment
+As we’ve mentioned, honey bees are used as a
+surrogate to assess risks to other pollinators. Therefore,
+the EPA’s product registration decisions are intended
+to protect other insects, including social non-Apis bees
+like bumble bees (Bombus spp.), solitary bees like blue
+orchard bee (Osmia lignaria), and other pollinators like
+alfalfa leaf cutter bees (Megachile rotundata). As with
+other taxa, the EPA uses the best available information
+to assess the potential risks to other pollinator insects
+(such as butterflies).
+When evaluating the potential direct risks to bees
+on a treated crop, regulators ask these questions:
+
+All of these questions revolve around knowing
+more about the pesticide, its proposed/existing uses,
+environmental exposures, toxicity, and derived benefits. Because these are serious questions that require
+the EPA’s diligence, the pesticide review process (for
+new products or modifications to existing products) is
+lengthy, comprehensive, time-consuming, and costly
+both to the EPA and registrants.
+Registrants require nearly 11 years of research and
+$290 million to get a pesticide product with a new active
+ingredient developed, screened, reviewed, and registered. With the worldwide market valued at more than
+$50 billion, companies are willing to invest large sums
+of money to research their products.
+
+• What crops will the pesticide be applied to?
+• Are any of the target crops attractive to
+foraging bees?
+• Is the pesticide applied during bloom?
+• What are anticipated exposure routes?
+For example, will bees be exposed by contact?
+By ingesting residues in nectar and pollen?
+
+49
+
+IN
+
+Do
+
+USA
+GE
+IR
+E NV
+
+TA
+L
+
+FATE
+
+The EPA uses the information it receives from each
+registrant to understand how they intend the product to
+be used. This information includes application sites (such
+as crops), maximum single application rates (such as
+pounds of active ingredient per acre), maximum number
+of applications, reapplication intervals, maximum seasonal/yearly application rates, application methods, and
+intended target pests. As noted earlier, this information
+
+re
+he s
+et
+e
+Ar ntag t
+uc
+va
+a d p r o d vs .
+s
+s
+thi vide ers?
+p ro ot h
+
+W
+h
+t h e at is
+e n ra te
+vir
+o
+br
+ea onm f
+kd
+e
+ow n t a
+n? l
+
+EN
+
+Are any
+breakdown
+components
+residues of
+concern?
+
+M
+
+N
+
+e
+id
+tic in r ?
+s
+p e i l e te
+I s o b wa
+m r&
+ai
+
+O
+
+e
+sticid
+ile,
+Is pe le, volat
+b
+lu
+t to
+so
+c
+je
+b
+or su spheric
+o
+at m p o r t?
+s
+t ra n
+
+ON
+ATI
+M
+R
+FO
+
+e
+er
+t h ties
+e
+e
+Ar tain uir l
+a
+r
+q
+ce t re tion a?
+n
+t
+i
+u ha d
+a
+d
+t ad
+
+ITI
+SENS VITY
+
+Wha
+t c ro
+will
+ps
+th
+pest e
+icide
+app
+b
+e
+lied
+to?
+
+What are the
+anticipated
+exposure
+routes?
+
+ide
+tic
+es
+I s p lie d
+p
+a
+a p ri n g
+du om?
+blo
+
+Is
+at cr
+to t r a o p
+b e fo c ti
+es rag ve
+?
+in
+g
+
+co
+n
+stu centr
+die ati
+a
+on
+d
+s
+ad
+ve ve r s e s h o w
+rse
+o
+r
+ef f
+n
+ec o
+ts?
+
+INFORMATION NEEDED TO
+DETERMINE RISKS TO HONEY BEES
+
+a ny
+A re t s
+f fec
+e
+b
+la
+ent in
+p re s
+ield?
+the f
+
+Does
+s u p p d at a
+or t
+sensit the
+of no ivit y
+n -apis
+bees?
+
+Ca
+n
+m la
+ex i t i g b e l
+co p o a s
+n c s u te
+e r re
+ns
+?
+
+is a foundation for the risk assessment.
+Based on a chemical’s intended use and whether it
+is a new or currently registered pesticide, the EPA will
+develop a risk hypothesis based on the most reliable
+science available. In some cases, these risk hypotheses
+are relatively generic and presume risks across a broad
+range of taxa. The EPA uses data submitted by the
+registrant to test the risk hypothesis.
+
+50
+
+FRAMEWORK FOR ECOLOGICAL RISK ASSESSMENT
+
+INTEGRATE AVAILABLE INFORMATION
+
+Management
+Goals
+
+PROBLEM
+FORMULATION
+
+PLANNING
+(Risk Assessor/
+Risk Manager
+Dialog)
+
+Source & Exposure
+Characteristics
+
+Ecosystem
+Potentially at Risk
+
+Assessment
+Endpoints
+
+Conceptual
+Model
+Analysis
+Plan
+
+CHARACTERIZATION OF
+EXPOSURE
+
+ANALYSIS
+
+Management
+Options
+
+Resources
+
+Scheduling
+
+Measures
+of Exposure
+
+CHARACTERIZATION OF
+ECOLOGICAL EFFECTS
+
+Measures of Ecosystem
+& Receptor Characteristics
+
+Ecological Response Analysis
+
+Exposure
+Profile
+
+Stressor-Response
+Profile
+
+This illustration shows the flowchart
+process the EPA follows to assess
+ecological risks.
+
+Acquire
+Data
+
+Measures
+of Effect
+
+Exposure Analysis
+
+Iterate
+Process
+
+Monitor
+Results
+
+RISK
+CHARACTERIZATION
+
+Scope,
+Complexity
+& Focus
+
+Ecological
+Effects
+
+AS
+NECESSARY
+
+Risk
+Estimation
+
+Risk
+Description
+
+Communicating Results
+to the Risk Manager
+
+Risk
+Management
+
+The bottom line is that FIFRA requires the EPA to
+answer the question: Does this product present an
+unreasonable risk to the environment when it is used
+under the conditions proposed for its use or that are
+currently in use?
+To answer this question, the EPA needs to understand
+a product’s exposure and toxicity, and then needs to
+
+determine whether exposure is likely to harm each species.
+They will weigh the likelihood and magnitude of adverse
+ecological effects (that is, risk) against potential benefits.
+During this process, the EPA also articulates a conceptual
+model of potential routes of exposure and effects. The
+EPA also identifies the overall plan for conducting the risk
+assessment.
+
+51
+
+Determining Many Routes of Exposure
+
+• The pathways a systemic pesticide can be
+distributed within a plant
+• How residues can then be transported to various
+matrices within the plant (such as pollen/nectar)
+• And subsequently, how residues can be transported
+within the colony (through wax, royal and brood
+jelly) and expose the bees
+
+A key component of the risk assessment process is to
+identify a pesticide’s potential routes of exposure based
+on the product’s expected use. To evaluate the potential
+risks to bees, this is a rather complicated process, because investigators must delineate the number of ways
+that an individual honey bee and the colony can come
+into contact with the pesticide.
+The figure on this page is an example of the various
+routes by which nontarget species can be exposed to
+pesticides. The information for the figure was taken from
+a recent assessment of a foliar-applied neonicotinoid
+systemic insecticide. The conceptual diagram depicted
+in the figure provides an example of:
+
+The routes of exposure may be much simpler with
+nonsystemic pesticides. For any pesticide, exposure can
+result from direct application to the various environmental matrices (directly to bees, plants, soil, and water).
+However, the plant does not translocate nonsystemic
+pesticide residues into pollen and nectar.
+
+POTENTIAL ROUTES OF EXPOSURE TO NONTARGET SPECIES
+
+IMIDACLOPRID: FOLIAR SPRAY APPLICATION
+STRESSOR
+
+SOURCE
+
+Spray Deposition
+on Bees
+
+Deposition on
+Plants
+
+Deposition onto
+Soil
+
+Deposition onto
+Surface Water
+
+RUNOFF/EROSION
+FOLIAR TRANSLOCATION
+
+EXPOSURE
+MEDIA
+
+Residues on
+Plant Surfaces
+
+Residues
+in Soil
+
+ROOT
+UPTAKE
+
+DERMAL UPTAKE
+& INHALATION
+
+Residues in/on
+Pollen, Nectar,
+Exudates,
+Honey Dew
+
+Residues
+in Surface
+Water
+
+INGESTION
+INGESTION
+
+Foraging Bees
+
+RECEPTORS
+
+(workers)
+
+(Nurse, Worker, Drone**)
+
+POLLEN & NECTAR PROCESSING
+INGESTION; COMB PRODUCTION
+
+ATTRIBUTE
+CHANGE
+
+BROOD PROVISIONS
+
+Hive Bees
+
+Population Size and Stability of Colonies
+Reduced colony strength and survival
+Reduced queen fecundity & brood success
+Reduced individual survival, behavior changes
+
+Bee Brood
+
+WAX, PROPOLIS
+ROYAL JELLY
+
+Queen**
+
+Quantity and Quality of Hive Products
+Reduced honey, wax & propolis production
+Contribution to Pollinator Biodiversity
+Reduced species richness and abundance
+
+* Brood initially rely on brood jelly and royal jelly, but later in development consume processed pollen and honey, whereas queens rely solely on royal jelly.
+** Interception of spray droplets is also a potential route of exposure during mating and orientation flights.
+
+52
+
+Formulating a Working Hypothesis
+
+It should be noted that the EPA does not accept the
+data that registrants submit at face value. Registrants
+must submit raw data, methods, analyses, and conclusions to the EPA for reanalysis and re-review. After they
+receive a registrant’s study, the EPA re-enters the raw
+data, statistically reanalyzes the data, and generates an
+independent review and conclusion.
+This process takes considerable time and resources,
+is subject to multiple levels of review within the agency,
+and is intended to be transparent so that the EPA’s understanding of the data is clear, concise, and reasonable.
+In addition to formal laboratory- and field-based
+toxicity studies that registrants submit, the EPA also
+relies on monitoring data (pesticide residues in air, soil,
+and/or water) and incident reports about adverse effects
+(such as bird, fish and/or bee kills) to assess risk. Other
+regulatory authorities (including state and tribal
+governments), the registrants, or the general public
+provide these data.
+
+After determining routes of exposure, the EPA creates
+a working hypothesis to determine how likely the pesticide could harm nontarget organisms such as honey
+bees. They base this risk hypothesis on the pesticide’s
+properties, possible routes of exposure, estimated
+environmental concentrations, and the measured
+toxicity of the pesticide. This initial risk hypothesis can
+(and often does) change as the review team becomes
+better acquainted with the pesticide’s toxicological
+and environmental characteristics.
+
+Analyzing the Data
+
+The next phase of the risk assessment process includes
+an intensive review and summary of the available
+toxicity and environmental fate data. These data include registrant-submitted studies, studies published
+in scientific journals (open literature), environmental
+monitoring data, and ecological incident data.
+The law requires that any studies a registrant submits
+to the EPA must indicate whether the studies followed
+Good Laboratory Practice (GLP) standards. The standards are meant to ensure consistency, reliability, and
+transparency in the data. Failing to comply with GLP
+standards can result in cancellations, suspensions, or
+modifications of a registration or research permit,
+penalties, or even criminal prosecution. Open literature
+studies must also meet the standard defined by the
+Data Quality Act. The EPA has published guidance for
+regulatory risk assessors on evaluating open literature
+studies for qualitative or quantitative use in ecological
+risk assessments that support regulatory decisions.
+
+53
+
+Comparing Exposure and Effects
+in a Tiered Approach
+To assess potential risks to pollinators, the EPA uses a
+process outlined in Guidance for Assessing Pesticide Risks
+to Bees (see References, page 68).
+The EPA Risk Assessment Flowchart depicts the EPA’s
+tiered approach for assessing the risks from foliar-applied
+pesticides (we will describe the terms in the flowchart
+in more detail in the pages that follow). The illustration
+shows how the process moves from evaluating risk using
+laboratory-based studies of individual bees (Tier 1), to
+enclosure and/or feeding (semi-field) studies using whole
+colonies (Tier 2), to full-field studies using full-size colonies
+(Tier 3) under actual use conditions. The EPA uses similar
+flow diagrams (with slight differences) to evaluate the
+risk to honey bees from seed treatments and soil and
+tree applications.
+
+54
+
+A tiered approach allows the EPA to quickly evaluate
+(screen) pesticides that are shown not to harm pollinators. This allows them to allocate resources to address
+products likely to be of more concern. The EPA’s tiered
+approach to assess risks (and the tests underlying the
+process) are relatively consistent with those used in
+Europe and elsewhere. This reflects a common understanding of the science and is practical for the registrants
+who can submit the same data to other countries without having to generate new data.
+When a registrant develops a new product, the tiered
+approach provides them with an understanding
+of the criteria the EPA will use to evaluate the potential
+risks to bees from the proposed or existing uses of a
+pesticide.
+
+EPA RISK ASSESSMENT FLOWCHART
+1
+
+Presumption
+of minimal risk
+
+Details of the product and its use pattern
+
+2a
+
+Is exposure of
+adult bees
+a concern?
+
+CONTACT EXPOSURE
+
+3a
+
+4a
+
+2b
+
+Is exposure of
+bee brood
+a concern?
+
+ORAL EXP.
+
+Calculate Tier 1
+screening-level EEC for
+adult contact exposure
+
+3b
+
+Calculate Tier 1
+screening-level RQs for
+adult contact exposure
+
+4b
+
+ORAL EXPOSURE
+
+Calculate Tier 1
+screening-level EEC for
+adult oral exposure
+via pollen and nectar
+
+Calculate Tier 1
+screening-level RQs for
+adult oral exposure
+RQ = EEC/adult acute oral LD50
+RQ = EEC/adult chronic NOAEC*
+
+RQ = EEC/adult acute contact LD50
+
+5
+
+No Tier 1 brood
+assessment
+
+3c
+
+4c
+
+Calculate Tier 1
+screening-level EEC for
+larval oral exposure
+via brood food
+
+Calculate Tier 1
+screening-level RQs for
+larval oral exposure
+RQ = EEC/larval acute LD50
+RQ = EEC/larval chronic NOAEC*
+
+Does any RQ exceed LOC?
+
+a,b,c
+
+EXPOSURE
+
+EFFECTS
+Refine Tier 1 exposure assessment
+
+6
+
+Presumption
+of minimal risk
+
+(e.g., using available crop residue studies)
+
+Recalculate RQs
+
+TIER 1
+
+TIER 1
+
+Conservative
+estimates
+
+7
+
+a,b,c
+
+Does any RQ exceed LOC?
+
+8
+
+Consider risk mitigation
+options, uncertainties and
+other lines of evidence;
+
+Acute &
+chronic
+studies
+
+(models)
+
+TIER 2
+
+Pollen &
+nectar
+residues
+
+9a
+
+Conduct Tier 2
+colony-level
+effect studies
+
+Is a higher Tier assessment needed?
+
+(e.g., semi-field)
+
+9b
+
+Conduct Tier 2
+exposure studies
+(e.g., residues in
+pollen & nectar)
+
+TIER 3
+
+TIER 2
+
+Semi-field
+scale
+studies
+TIER 3
+
+Field
+studies
+
+Field
+studies
+
+Evaluate Tier 2 exposure
+and colony-level effect result.
+Consider uncertainties and
+other lines of evidence.
+
+10
+
+Do results indicate risk?
+
+12
+
+Conduct Tier 3
+field studies
+to address
+uncertainties
+
+Consider risk mitigation
+options, uncertainties and
+other lines of evidence;
+
+11
+
+Presumption
+of minimal risk
+
+Is a higher Tier assessment needed?
+
+13
+
+Evaluate Tier 2 exposure and
+colony-level effect result.
+Consider uncertainties and
+other lines of evidence.
+Do results indicate risk?
+
+* When tests are sufficiently developed and vetted
+
+Presumption
+of risk
+
+55
+
+Yes
+No
+Optional
+
+Tier 1 — Effects to Individual Honey Bees
+
+The EPA requires five Tier 1 laboratory-based studies
+on individual bees and larvae. The Tier 1 laboratory studies include acute tests (for single exposures) and chronic
+tests (for repeated exposures):
+
+The five required Tier 1 studies form a screening level
+assessment. The data from these studies help the EPA
+determine if the worst-case scenario of bee exposure
+in the environment would harm bees.
+First, let’s look at what the Tier 1 studies measure,
+then let’s explore how the EPA uses those data measurements in their risk assessment process.
+
+• Adult acute contact toxicity
+• Adult acute oral toxicity
+• Larval acute oral toxicity
+• Adult chronic 10-day oral toxicity
+• Larval chronic 21-day oral toxicity
+
+Acute and Chronic Studies
+
+If these studies indicate a cause for concern, then
+registrants may be required to complete a foliage
+residue toxicity study (a Tier 1 study).
+Registrants may also be required to perform further
+studies that examine effects on the entire colony:
+
+Remember that the EPA requires all registrants to submit
+five studies that examine the effects a pesticide will have
+on individual bees.
+The primary goal of an acute toxicity study is to
+determine how much of a pesticide it will take to kill 50
+percent of the individual bees they test. This standard,
+called the LD50 (for lethal dose, 50 percent), is a commonly
+used value in toxicology and has been found to be a
+reliable way to evaluate acute toxicity.
+But the EPA testing guidelines for acute toxicity aren’t
+just concerned with bee death. The EPA specifies that
+toxicity studies must document all sublethal effects that
+may occur. If the data on sublethal effects are sufficient
+to support a reliable dose-response relationship, the EPA
+may use a median “effect dose” for 50 percent of the
+bees tested (called the ED50) to assess risk.
+The primary goal of a chronic toxicity study is to
+determine a pesticide’s toxicity through repeated
+exposure. For chronic toxicity, researchers are trying
+to determine two values:
+
+• Semi-field toxicity (Tier 2)
+• Colony feeding toxicity (Tier 2)
+• Full field toxicity (Tier 3)
+Once a registrant generates the necessary data from
+the initial Tier 1 studies, they can readily calculate risk
+quotients to determine whether they need to test the
+product further. Registrants often weigh the potential
+costs associated with higher-tier testing versus what they
+expect the product will generate in the marketplace. In
+other words, if the expenses to test a pesticide in Tier 2
+and Tier 3 studies is more than what a registrant expects
+to earn, they may choose not to register the product.
+The Appendix (page 69) provides detailed descriptions of how researchers conduct all of these studies.
+We describe how the EPA uses the data from these
+studies below.
+
+Approximate
+Costs to Conduct
+EPA-required
+Tests
+
+Testing a new pesticide can be costly. Here are some estimated
+costs for the bee risk assessment studies the EPA requires.
+
+A lab study — $30,000 to $50,000
+A semi-field study — $75,000 to $150,000
+A full field study — $1.2 million
+
+56
+
+1. The no-observed adverse effect level (NOAEL) —
+this is the highest dose of the pesticide at which no
+adverse effects are observed
+2. The lowest-observed adverse effect level (LOAEL) —
+this is the lowest dose of the pesticide that was
+observed to cause adverse effects
+
+To calculate the RQ, the EPA divides the EEC by the
+proper measurement from the studies. That is, each Tier
+study will have its own RQ — there will be risk quotient
+for each route of exposure. For example, the RQ for adult
+acute oral toxicity would be:
+Exposure (e.g., dose) ÷ LD50 = RQ
+The exposure (e.g., dose) is determined by the EEC,
+and (in this example) the LD50 comes from the adult
+acute oral toxicity study.
+
+Chronic studies document sublethal effects on a bee’s
+growth, survival, and development. Sublethal effects
+for adult bees can include eating less, disproportionate
+agitation, excessive grooming, disorientation, and
+impaired foraging activity. Effects for larvae include
+decreased food consumption and increased time to
+pupation or adult emergence.
+
+After the EPA determines the RQ, they compare that
+number to the level of concern (LOC). For pesticides, the
+LOC for acute risk is always 0.4 and the LOC for chronic
+risk is always 1.0.
+Let’s consider a simple example. Let’s say that an
+adult acute oral toxicity study determined that the LD50
+for a product was 100 parts per million (ppm). The dose
+(which predicts worst-case exposure) for the product
+was 15 ppm. So:
+
+Estimated Environmental Concentrations,
+Risk Quotients, and Levels of Concern
+So, the acute and chronic laboratory studies determine
+the level of pesticide exposure it will take to harm
+individual bees. But to fully estimate risk, the EPA also
+must know what the actual exposure might be.
+To predict that exposure during the screening assessment, the EPA uses a model to determine the pesticide’s
+estimated environmental concentration (EEC). The EEC is
+a predicted concentration of the pesticide in the environment based on application rates, pesticide properties,
+and other factors. When the EPA sets this concentration,
+they use the worst-case scenario that predicts higher
+pesticide levels than would typically be found in the environment. After they determine the EEC, the EPA must
+convert the EEC to doses. They determine the doses by
+considering how much pollen or nectar bees of different
+castes, ages, and sexes may consume.
+Now, the EPA can make a preliminary risk assessment
+by calculating a risk quotient (RQ).
+The RQ is an equation that uses the dose (determined
+from the EEC) and one the measurements from the acute
+(LD50) and chronic (NOAEL) studies. That is, each Tier 1
+study will have its own RQ — there will be a risk quotient
+for adult acute oral toxicity, another for adult acute contact toxicity, and so on. In addition, regulators calculate RQs for each crop and application method listed on
+the label. The risk is different for each scenario. In other
+words, a single pesticide may pose a low risk on some
+crops and a high risk on others.
+
+15 ÷ 100 = 0.15
+For this example, the product would have a risk quotient
+of 0.15, which puts it well below the 0.4 level of concern.
+
+Screening Risk
+The EPA Risk Assessment Flowchart (page 55) shows us
+an example of what the EPA would do at this stage. The
+EPA compares the RQ values and the LOC values. If the
+RQ values are lower than the LOC values, then the EPA
+presumes that the product will post a minimal risk to the
+health of the colony.
+If RQ values are greater than the LOC values, that
+doesn’t automatically mean that there will be an unacceptable risk in the environment. Remember that the
+EPA predicts the EEC (environmental exposure) based
+on worst-case estimates.
+
+Vacuuming pollen from orange tree flowers. © Smithers Viscient
+
+57
+
+The EPA can refine its overall risk assessment by using
+actual measured pesticide residue levels on pollen,
+nectar, and foliage rather than the predicted EECs
+(when such data are available). These actual measured
+levels come from submitted studies. Researchers
+typically conduct such studies on multiple crops and,
+depending on the crop, researchers collect samples for
+residue analyses directly from the treated plants or from
+bees foraging on the treated crop.
+If a foliage toxicity study shows that the actual
+environmental exposure is significantly lower than the
+predicted EEC, then the EPA can use this actual level
+(instead of the EEC) to refine the RQ.
+If the RQ calculated with the actual exposure falls
+below the LOC, then the EPA presumes that the product
+will pose a minimal risk to individual bees (and by
+extension, to the colony). At this point, the pesticide
+may pass the Tier 1 screen as long as no other data
+(open literature studies, incident data) indicate potential
+adverse effects.
+Even if the RQ with the actual exposure is still greater
+than the LOC, the registrant can work with the EPA to
+develop mitigation measures. However, the EPA has
+to agree to any proposed risk mitigation measures
+intended to reduce exposure.
+
+Researchers collect flowers from almond trees. They must be careful to avoid
+contaminating nectar and pollen. © Smithers Viscient
+
+These mitigation measures could include one or more
+of the following:
+• Prohibiting applications to blooming crops
+• Limiting applications to when bees are less
+likely to be foraging (dusk to dawn)
+• Reducing application rates
+• Reducing the number of applications
+• Increasing the time between applications
+(longer reapplication intervals)
+• Restricting use to crops with lower exposure levels
+• Limiting the type of application equipment
+While these are legitimate ways to reduce exposure to
+honey bees, these tactics can also reduce the product’s
+efficacy and economic benefits, so they are not always
+feasible. Some insect pests have multiple life cycles or
+the pest pressure might be high enough to warrant
+multiple applications. So, reducing a pesticide rate might
+
+58
+
+effectively reduce how much pesticide is being applied,
+it might also mean that it no longer effectively controls
+the pest. Reduced rates may also lead to target insects
+developing pesticide resistance.
+Depending on the EPA’s need for additional information, they may require Tier 2 and possibly Tier 3 studies
+to address unanswered questions.
+
+Tiers 2 and 3 — Colony-level Assessments
+
+While pesticide exposure can harm bees at the individual
+level, it is the pesticide’s overall impact to the colony that
+is critical to the health and survival of social bees. Given
+the complexities of a honey bee colony and its division
+of labor, and the fact that honey bees may forage on
+a variety of floral sources rather than exclusively on a
+single crop, the colony may be able to tolerate higher
+levels of a pesticide exposure than individual bees under
+laboratory test conditions.
+However, risk assessors do not use data from colonylevel studies to calculate RQ values. While there are tools
+to estimate exposure to individual bees, it is more complicated to estimate exposure to the whole colony.
+Currently, the data collected during Tier 2 and Tier
+3 studies are evaluated in combination with laboratory
+studies of individual bees (from both registrant-submitted
+studies and those gleaned from the open literature). These
+evaluations help determine whether there is enough
+information to refute or support the risk hypothesis
+associated with a particular pesticide.
+
+Building net tunnels over almond trees. © Smithers Viscient
+
+The EPA’s understanding of the risk assessment
+process continues to evolve as the science evolves. The
+EPA has identified additional studies to assist in the risk
+assessment process. For honey bees, they have added
+multiple studies to help quantitatively and qualitatively
+assess risks. Although many of the studies are not currently specified in the Code of Federal Regulations Part
+158, the EPA can require such studies as it deems necessary to support risk assessments and decision-making.
+The EPA has worked closely with stakeholders to
+ensure that they are aware of the data needed to support the risk assessment process. In many cases, registrants submit the data packages to the EPA with the full
+complement of studies, particularly in cases where a
+compound is proposed for use at bloom on crops that
+are attractive to pollinators.
+
+Spraying almond trees with test substance before tunnel construction. © Smithers Viscient
+
+59
+
+The EPA has been working with researchers in
+the USDA-Agricultural Research Service to develop
+a colony simulation model to estimate the effects of
+pesticides on honey bee colonies. The model uses
+laboratory toxicity data about pesticides to simulate
+the effects on colony condition (numbers of adult
+and brood bees) and queen performance. The
+model can also look at the interaction of pesticide
+exposure with Varroa mite loads.
+Such predictive tools (after being sufficiently
+vetted) can serve as another line of evidence to
+support risk assessments and may reduce the need
+for more elaborate colony-level studies. Other
+regulatory agencies around the world are developing similar models. So, the EPA (and its international
+counterparts) continue to advance the science of
+assessing risks to bees.
+This researcher is using computer technology to make detailed brood assessments
+to assess hive health. © Smithers Viscient
+
+We know how many days it takes a bee to go through the stages of larvae, prepupa, and adult. If a pesticide contained in the brood jelly affects
+growth and development, researchers can use larval survival and adult emergence to evaluate the extent of the effects. © Smithers Viscient
+
+60
+
+Is the Risk Quotient Above or
+Below Levels of Concern?
+The “last” phase of the risk assessment process we discuss
+is risk characterization. This phase consists of two parts:
+risk estimation and risk discussion. The EPA generally
+quantifies risk as a ratio between expected environmental concentrations and the most sensitive acute and
+chronic toxicity values for nontarget organisms.
+The EPA uses a model to estimate a pesticide’s exposure to bees via contact and diet (pollen and nectar
+consumption) for various ages and classes of bees. The
+model uses worst-case situations that predict higher
+pesticide levels than would typically be found in the
+environment.
+For the screening-level assessment, the EPA focuses
+on determining if a pesticide is unlikely to harm bees
+even under the worst-case scenario. The concept is
+
+simple enough: The pesticide can harm bees if the level
+of environmental exposure is greater than the level
+shown to be toxic. If the amount of pesticide in the
+environment (even at its worst-case level) is sufficiently
+lower than the toxic level (determined from laboratory
+studies), then regulators predict that bees are unlikely
+to be adversely affected by contact exposure or by
+ingesting nectar and pollen from peak residue levels
+in the treated crop.
+For pesticides that exceed levels of concern, regulators can refine the risk assessment based on higher-tier
+effects data and exposure data (measured residues in
+pollen and nectar). For these assessments, regulators
+often determine the risk for the whole colony (from the
+Tier 2 and Tier 3 studies) as well as individual bees.
+
+61
+
+Registration Decisions Go Through
+Extensive Reviews
+The EPA’s decision whether to register or reregister an
+active ingredient considers the products potential effects
+on human health and wildlife, coupled with an understanding of the benefits that the compound affords.
+A division of the EPA evaluates the benefits of using a
+compound. This is an ongoing process for chemicals
+already registered. The law requires the EPA to re-evaluate
+each chemical on a 15-year cycle to ensure that the
+underlying data and assessment methods are current
+with the science.
+FIFRA requires the EPA to determine whether a
+compound meets the FIFRA “standard” — that using
+a compound does not represent an unreasonable risk
+
+to human health and the environment. The EPA may determine that a pesticide is ineligible for registration or
+reregistration if the risks exceed the benefits the product
+provides. If the benefits outweigh risks, then the EPA may
+proceed with registration/reregistration and require the
+registrant to place risk reduction measures on the label.
+The Federal Register publishes the outcome of the risk
+assessment and risk management decision. The public
+can provide written comments directly to the agency
+about the the science used and the conclusions drawn
+from the risk assessment. Stakeholders (registrants,
+advocacy groups, the public) are free to pursue legal
+measures if they disagree with the regulatory decision.
+
+62
+
+The Label Puts the
+Risk Assessment to the Test
+The label forms the foundation
+for the risk assessment process
+and ensures that the compound
+is used in a way that is consistent
+with the FIFRA standard. Users
+must follow Directions for Use
+and advisory hazard statements
+on product labels to avoid posing
+an unreasonable risk to human
+health or the environment.
+The EPA approves all pesticide
+labels as part of the registration
+and reregistration process. The EPA
+may require specific instructions
+appear under the environmental
+hazard statement to protect honey
+bees and pollinators.
+The EPA requires a pesticide
+label to carry advisories/warnings
+when the product may contaminate various habitats or harm
+particular taxa. These statements
+are typically based on the environmental fate and toxicity data
+evaluated during the risk assessment process.
+Examples of standard hazard statements include:
+
+The EPA Bee Advisory Box
+
+In order to achieve more consistent label language, the
+EPA developed the Label Review Manual (see References,
+page 68) to guide risk managers. The manual relies on
+data submitted in support of registration and reregistration. However, pesticides can differ widely in their
+environmental fate and effects. The EPA has the option
+to add more restrictive language to the label. Such language allows the EPA to tailor a pesticide label to be
+prescriptive and to provide additional instructions that
+allow for case-by-case mitigation measures to fine tune
+how the product is used.
+
+• “This pesticide is toxic to bees exposed to direct
+application. Applications should be timed to
+coincide with periods of minimum bee activity,
+usually late evening and early morning.”
+• “This product is highly toxic to bees exposed to
+direct treatment or residues on blooming crops
+or weeds. Do not apply this product or allow it to
+drift to blooming crops if bees are visiting the
+treatment area.”
+
+63
+
+Moving Beyond the Label
+While pesticide labels are intended to help minimize the
+risks to human health and the environment, stakeholders
+can perform voluntary actions to further reduce exposing
+bees to pesticides.
+The EPA has been working with state/tribal lead
+agencies and a broad range of stakeholders to develop
+managed pollinator protection plans (or MP3). In most
+cases, the MP3s involved voluntary collaborations between stakeholders. For example, some of the plans
+have encouraged beekeepers to voluntarily register their
+colonies so that growers and applicators have a way to
+know where apiaries are located.
+
+The National Strategy to Promote the Health of Honey
+Bees and Other Pollinators (see References, page 68) has
+echoed the importance of communication, cooperation,
+and collaboration between a broad range of stakeholders. They also encourage public-private partnerships that
+can further our understanding of factors that affect pollinators and to develop ways to mitigate those factors.
+The National Strategy also identifies what research we
+need to advance our understanding of factors affecting
+honey bees and other pollinating species.
+
+64
+
+Conclusion
+
+While big, powerful, beautiful, and rare animal species
+often dominate our attention, the common honey
+bee is no less a marvel. Those who work in agriculture
+understand that a healthy, productive, profitable, and
+sustainable farming operation depends largely on these
+and other unseen organisms. So, it is important that we
+understand them and take steps to minimize the risks
+we expose them to.
+
+Bumble bees
+are important
+pollinators
+of some
+plants in the
+tomato family.
+
+65
+
+Most farmers aim to do as little harm as possible
+to pollinators while growing crops sustainably and
+economically. It doesn’t matter if the farm is small or
+large, organic or traditional, pollinators play a pivotal
+role in boosting crop yields for many of the vegetables and fruits we consume each and every day.
+However, pollinators represent more than just the
+food we enjoy. Unlike many of the wildlife species
+we see on nature programs, we can observe insect
+pollinators in our backyards. We can easily watch
+honey bees, butterflies, and other native pollinators
+moving from flower to flower in our gardens and
+landscapes.
+Pesticides are part of our agricultural system,
+Pollinator gardens attract bees, butterflies, and other pollinators throughout the season.
+so the challenge before us is to minimize their
+exposure to pollinators. Let’s return to the question
+we posed at the start of this document: “Are honey
+numbers. In national surveys, beekeepers consistently
+bees in decline?”
+report that they can compensate for losses of between
+Managed honey bees certainly face multiple chal15 to 17 percent; however, overwintering losses the past
+lenges. While USDA data indicate that the total number
+decade have averaged 31 percent, and more recent
+of managed colonies has been relatively constant in the
+estimates of total annual losses have indicated a loss
+United States since the mid-1990s, the data do not reflect
+rate of 42 percent. Both estimates are well above what
+the extra effort beekeepers have made to maintain these
+beekeepers have indicated as economically sustainable.
+
+66
+
+Honey bees
+and a solitary
+bee (petal)
+forage a
+sunflower
+head.
+
+We have focused on the relatively unique biology of
+the honey bee, how a honey bee colony functions as a
+superorganism, and how regulators use this information
+to evaluate the potential role of one risk factor, pesticides. The risk from any pesticide is a complicated function of exposure and toxicity which vary depending on
+the biological cycles of the pollinator species. Clearly,
+there are chemicals classified as highly toxic to bees,
+and sufficient exposure can harm individual bees and
+the colony.
+Pesticide applicators and beekeepers are key components of our food production system. If they work together, they can achieve their individual goals and their
+mutual goal of maintaining an abundant food supply.
+Increasing communication between stakeholder groups
+will help to reduce misinformation and may provide an
+opportunity for greater collaboration and cooperation
+between growers, applicators, and beekeepers. In turn,
+communication can reduce pesticide exposure and risk
+to bees.
+
+Although pesticides are one of multiple factors
+affecting bees, increasing awareness and mitigating the
+effects of each factor will help to reduce the cumulative
+impact. Although we focused on honey bees in this
+publication, the considerations and protections we describe will extend to other non-Apis bees and beneficial
+insects that provide ecosystem services for our shared
+environment.
+
+67
+
+References
+Guidance for Identifying, Selecting and
+Evaluating Open Literature Studies (EPA)
+
+National Strategy to Promote the
+Health of Honey Bees and Other
+Pollinators
+
+www.epa.gov/pesticide-science-and-assessingpesticide-risks/guidance-identifying-selectingand-evaluating-open
+
+obamawhitehouse.archives.gov/sites/
+default/files/microsites/ostp/Pollinator
+%20Health%20Strategy%202015.pdf
+
+Framework for Ecological Risk
+Assessment (EPA)
+
+Series 850 — Ecological Effects Test
+Guidelines (EPA publications)
+
+www.epa.gov/sites/production/files/2014-11/
+documents/framework_eco_assessment.pdf
+
+www.epa.gov/test-guidelines-pesticidesand-toxic-substances/series-850-ecologicaleffects-test-guidelines
+
+Good Laboratory Practice Standards
+Compliance Monitoring Program (EPA)
+www.epa.gov/compliance/good-laboratorypractices-standards-compliance-monitoringprogram
+
+USDA Honey Bee Surveys and Reports
+
+Guidance for Assessing Pesticide Risks
+to Bees
+
+White Paper in Support of the
+Proposed Risk Assessment Process
+for Bees
+
+www.nass.usda.gov/Surveys/Guide_to_
+NASS_Surveys/Bee_and_Honey
+
+www.epa.gov/sites/production/files/2014-06/
+documents/pollinator_risk_assessment_
+guidance_06_19_14.pdf
+
+www.cdpr.ca.gov/docs/emon/surfwtr/
+presentations/epa_whitepaper.pdf
+
+Label Review Manual (EPA)
+
+Indiana’s MP3
+
+www.epa.gov/pesticide-registration/
+label-review-manual
+
+www.oisc.purdue.edu/pesticide/
+p3_activities.html
+
+68
+
+Appendix: Descriptions of EPA Testing Protocols
+The EPA requires five tier 1 laboratory-based studies
+on individual bees and larvae.
+The Tier 1 laboratory studies include acute tests
+(for single exposures) and chronic tests (for repeated
+exposures):
+• Adult acute contact toxicity
+• Adult acute oral toxicity
+• Larval acute oral toxicity
+• Adult chronic 10-day oral toxicity
+• Larval chronic 21-day oral toxicity
+In addition to these tier 1 studies, the EPA may require
+these tests:
+• Foliage residue toxicity (a Tier 1 study)
+• Semi-field toxicity (Tier 2)
+• Colony feeding toxicity (Tier 2)
+• Full field toxicity (Tier 3)
+Laboratory studies typically use the pure active
+ingredient (referred to as technical grade active
+ingredient, TGAI). That said, the EPA may require studies
+to be conducted using the technical end product (TEP),
+which is the formulated product available to applicators
+or consumers. The TEP contains the active ingredient(s)
+plus other inert ingredients that can influence how
+target and nontarget organisms absorb and distribute
+the active ingredient.
+This appendix describes each of the methods and
+protocols for these tests.
+
+A test arena for conducting the adult acute contact study. © Smithers Viscient
+
+a known toxicant (typically the organophosphate insecticide dimethoate) referred to as the toxic reference (or
+positive) control.
+Researchers record signs of toxicity (number of dead
+and disabled) at four, 24, and 48 hours. If adult bee mortality continues to increase at 48 hours, researchers extend the observation period to 96 hours. One outcome
+of this study is if the data indicate that less than 11 micrograms (μg) per bee is toxic, then a follow-up toxicity of
+residues on foliage test may be required.
+
+Required Tests
+Adult Acute Contact Toxicity
+
+Adult Acute Oral Toxicity
+
+The adult acute contact toxicity test (OCSPP 850.3020;
+OECD Test Guideline 214), is a 48-hour test that typically
+uses 25 to 30 adult bees for each of five dose levels.
+Bees in each dose level may be divided into replicates.
+For this test, researchers briefly anesthetize young
+adult bees and place a single dose of the test material
+in a suitable solvent (typically acetone) on the back (top
+thorax) of the adult honey bee. Researchers must also
+run suitable experiment control groups at the same time.
+Control groups include running the test with water alone
+(referred to as the negative control), running the test
+with the solvent (if used), and running the test with
+
+The adult acute oral toxicity test (OECD Test Guideline
+213) involves testing five different dose levels. For each
+level, there are three different groups (replicates) of at
+least 10 honey bees.
+For this test, researchers feed bees 100 to 200 microliters (µL) of 50 percent sucrose solution that they spiked
+with the various dose levels of the pesticide. After a
+maximum of six hours, researchers replace the treatment
+solution with an unspiked sucrose solution. Researchers
+then determine how much of a dose the bees consumed
+by measuring how much of the spiked solution remains.
+
+69
+
+As with the other toxicity tests, researchers record
+mortality and sublethal effects. They measure on days
+five, six, and seven of the test and then calculate the
+72-hour LD50 (cumulative mortality at day seven). As with
+the acute toxicity tests with adult bees, researchers run
+a negative control (untreated diet), a solvent control (if
+used to dissolve the test item), and a positive control
+(typically the insecticide dimethoate and/or the insect
+growth regulator fenoxycarb).
+
+Adult Chronic 10-day Oral Toxicity
+The adult chronic oral toxicity test (draft OECD Test
+Guideline) is based on for the adult acute oral toxicity
+test. Again, researchers test five doses with three
+replicates at each dose. Each replicate typically has a
+minimum of 10 young (maximum of two-days old)
+adult honey bees. Researchers expose honey bees to
+a 50 percent (weight to volume) sugar solution that
+contains a dose of the test chemical over a period of
+10 days. Researchers evaluate the effects of the chemical
+by comparing effects in the treated group to those of
+the respective control. Researchers focus mainly on
+mortality, but they also must report sublethal effects
+(such as impaired behavior, decreased/increased food
+consumption).
+Researchers then determine the 10-day no-observed
+effect concentration (NOAEC based on concentration in
+the diet), the 10-day NOAEL (based on dose), the median
+lethal concentration for 50 percent of the bees (10-day
+LC50 based on concentration in the diet), and the 10-day
+LD50 (based on dose). Depending on the quality of the
+dose-response relationship, researchers may use a measurement endpoint other than mortality to calculate a
+10-day EC50 and/or 10-day ED50. Similar to the acute toxicity tests, researchers run negative and solvent controls,
+and reference toxicant control (typically dimethoate).
+
+A test system for conducting the adult acute oral study. © Smithers Viscient
+
+Researchers observe the bees and record mortality
+and sublethal effects at four, 24, and 48 hours. If adult
+bee mortality continues to rise by more than 10 percent
+after the first 24 hours, they extend the test duration
+to 96 hours. In addition to the five pesticide dose levels,
+researchers must include suitable controls (negative;
+solvent if warranted; and, reference).
+
+Larval Acute Oral Toxicity
+The larval acute oral toxicity test (OECD Test Guideline
+237) uses first instar bee larvae.
+Researchers place the larvae into separate wells of
+36- or 48-well plates and feed them royal jelly combined
+with several sugars (carbohydrate source) and yeast
+extract (protein source). The diet is intended to be similar
+to what nurse bees feed to developing larvae in honey
+bee colonies. As with the oral acute oral test, researchers
+test five different dose levels for the pesticide and
+include replicates. Typically, researchers use a minimum
+of 12 larvae collected from three separate honey bee
+colonies for each replicate.
+For the first three days of the study, researchers
+feed larvae an untreated diet. On day four, researchers
+provide a single dose of spiked diet (with a known concentration of test material). Typically, larvae consume the
+entire amount of spiked diet within the day. After day
+four, researchers resume feeding bees the untreated diet.
+
+70
+
+Larval Chronic 21-day Oral Toxicity
+The larval chronic oral toxicity test (OECD Guidance
+Document 239) is based on the design of acute larval
+toxicity test. Again, researchers collect a minimum
+of 12 first instar larvae collected from three separate
+honey bee colonies. Each set of 12 larvae are a replicate,
+and the researchers have three replicates for five treatment levels.
+Initially, researchers feed larvae an untreated diet.
+From day three through day six of the study, researchers provide a spiked diet that contains an increasing
+known concentration of test material — larvae are
+repeatedly dosed for four consecutive days. Larvae
+stop eating after this time to make the transition to
+a prepupa.
+The study continues until the adult bees emerge
+at day 22. Researchers record mortality and other
+abnormal effects daily from days three through day
+eight, and then again on day 15. Researchers also
+record the cumulative number of emerged bees on
+day 22. Researchers determine the NOAEC (based on
+concentration in the diet), NOAEL (based on dose), the
+median effect concentration for 50 percent of the bees
+(EC50 based on concentration in the diet), and the ED50
+(based on dose) are determined for adult emergence
+on day 22. The study can also provide a LC50, LD50,
+and NOAEC/NOAEL for larval survival at day eight.
+As with the other tests, researchers also run negative
+and solvent controls and a reference toxicant control
+(typically dimethoate or fenoxycarb).
+
+These images show a honey bee transition (metamorphosis) from prepupa (A)
+to emergence (eclosion) as an adult (H).
+
+All images on this page copyright to The International
+Bee Research Association. Reproduced with permission
+of the editors of the Journal of Apiculturual Research.
+
+These photos show
+a larval toxicity test.
+Each well contains
+a larva at a different
+stage of development
+from first instar (newly
+hatched) larva (A) to
+prepupa (G). The larvae
+are surrounded by
+brood jelly. Larvae
+stop eating when they
+transition to prepupa.
+
+71
+
+Tests that May Be Required
+Foliage Residue Toxicity
+The foliage residue toxicity test (OCSPP 850.3030)
+is considered a Tier 1 study, but it is only required for
+pesticides that are moderately or highly toxic (LD50
+<11 µg/bee) via acute contact exposure. This study
+determines the length of time that a compound
+remains toxic to bees exposed to the treated foliage.
+Researchers use the study to calculate the RT25,
+which is defined as the residual time needed to reduce
+the activity (toxicity) of the test substance and bring bee
+mortality down to 25 percent of the tested populations.
+The study has a field component in which researchers
+make foliar applications to alfalfa and then treated foliage/residues are weathered for various amounts of time.
+For the laboratory component of this study, researchers
+expose bees to the freshly cut weathered foliage from
+different time points. While the RT25 is not used in
+calculating risk, the data have been used to develop
+label advisory statements that include the length of
+time a test substance is expected to remain toxic to
+bees following contact exposure to residues of the
+pesticide on vegetation.
+
+Collecting lilac flowers for residue analysis in bee tunnel. © Smithers Viscient
+
+Some beekeepers and growers consider the RT25
+to be a useful way to identify products that are less
+hazardous to bees, particularly if they need to apply the
+pesticide at a specified time (such as before bees are
+likely to be foraging). For example, if the RT25 is less than
+three hours, applicators might apply the product after
+dusk with some certainty that it is not likely to represent
+a hazard to bees foraging on that crop the following day.
+However, the RT25 is like other data used in evaluating
+risk to bees — it represents one of several lines of evidence.
+The EPA may also require field testing on whole
+colonies. The EPA may request such studies if Tier 1
+studies indicate that a compound is toxic to bees and
+initial exposure estimates suggest that environmental
+concentrations may be sufficient to result in adverse
+effects on individual bees.
+As studies transition out of the laboratory and into
+more realistic exposure scenarios using entire bee colonies, then researchers typically use the actual product
+that growers and applicators will actually use — as
+opposed to just using the active ingredient in the lab.
+As such, the semi-field (Tier 2) and full-field (Tier 3)
+studies include both the active ingredient and the
+“inerts” as part of the formulated product. Transitioning
+to less controlled environments, means that researchers
+must contend with weather, pests, diseases, and poor
+nutrition that can confound test results.
+
+Semi-field Toxicity
+The semi-field toxicity test (Tier 2 Tunnel Study, OECD
+75 and EPPO 170) is a Tier 2 study that uses tented
+enclosures and small nucleus colonies (typically
+five-frame colonies with approximately 5,000 to 7,000
+bees). During this study, bees must forage in confined
+areas that have been treated or where bees are provided spiked diets (treated sucrose solution and/or
+spiked pollen and protein).
+
+Bagging cranberry leaves for residue analysis. © Smithers Viscient
+
+72
+
+Colony Feeding Toxicity
+The colony feeding toxicity test (a Tier 2 study) typically
+uses a range of exposure levels to determine a NOAEC
+and LOAEC for adults and brood.
+Researchers can feed bees spiked diets for short
+intervals (one feeding) to multiple feeding periods
+(like six weeks). The extended periods simulate longer
+duration exposures that may occur in crops with
+prolonged bloom periods, such as with indeterminate
+blooming crops (cotton, squash, strawberries). Since
+the more extensive feeding studies typically last longer
+and frequently involve larger colonies, the colonies are
+monitored for longer periods. Some studies may even
+include an overwinter component.
+While not intended to be exhaustive, here are some
+examples of measurements that researchers can collect
+at the whole colony level:
+
+© Smithers Viscient
+
+In semi-field enclosure studies, researchers typically
+apply the maximum pesticide rate on a pollinatorattractive crop (buckwheat, alfalfa, phacelia). This rate
+ensures maximum exposure, and the study includes a
+toxic reference (typically dimethoate and/or fenoxycarb)
+and suitable negative controls to ensure that the study
+is sensitive.
+In a number of the studies, researchers apply the
+compound by ground equipment while bees are actively
+foraging to further ensure maximum “worst case” exposure. Since enclosures are somewhat limited in area
+(about 200 feet x 330 feet), bees can undergo confinement
+stress in such studies. For this reason, researchers do not
+typically keep colonies in the enclosures any more than
+two weeks. However, researchers continue to monitor
+exposed colonies after removing them from the enclosures to determine whether there are any long-term
+effects on the colonies. These monitoring periods
+typically include at least one full brood cycle (21-days),
+but frequently include multiple brood cycles. Bees are
+removed to a clean site, preferably away from agricultural
+fields to limit exposure to other pesticide products
+during monitoring.
+
+• Forager bee activity and mortality
+• Queen fecundity (egg production)
+• Brood development and survival
+• Hive weight and strength (adult and larval
+bee abundance)
+• Quantity and quality of food reserves in hive
+
+Full-field Toxicity
+The full-field toxicity test (Tier 3 Study; OCSPP 850.3040)
+is a Tier 3 study. The EPA tries to ensure that the study
+design builds on existing data and focuses on remaining
+uncertainties. Tier 3 studies are intended to answer very
+specific questions and the design depends on the risk
+hypothesis. Researchers may study full-size colonies
+(approximately 20,000 to 40,000 bees) with free-foraging
+bees are and exposure conditions are designed to be as
+close to actual pesticide use conditions as possible.
+Since the EPA Office of Chemical Safety and Pollution
+Prevention does not have formal, detailed guidelines
+for Tier 2 or Tier 3 studies with honey bee colonies, the
+EPA typically requires registrants to submit proposed
+protocols for EPA review before initiating the study. For
+both the Tier 2 and Tier 3 studies, the EPA is particularly
+interested in whether the colony is able to recover from
+what may be direct (but often transient) effects on
+survival, growth, or development of the colony.
+
+This photo depicts a Tier 2 semi-field enclosure study. Researchers enclose
+test plants (like buckwheat) in a tunnel covered by a fine plastic mesh to
+prevent bees from escaping from the tunnel. © Smithers Viscient
+
+73
+
+The Protecting Pollinators series helps
+everyone better understand pollinators
+and their important roles in the
+environment and in agriculture.
+
+Protecting Pollinators in Home
+Lawns and Landscapes (POL-1) —
+Find out what homeowners can do
+to protect pollinators in their home
+landscapes.
+Protecting Pollinators in Fruit and
+Vegetable Production (POL-2) —
+Learn how commercial fruit and
+vegetable growers can protect
+pollinators in their cropping systems.
+
+Best Management
+Practices for Indiana
+Pollinator Habitat
+(POL-5) — Learn
+how to conserve and
+establish effective
+pollinator habitats.
+
+Tips for Commercial Agricultural
+Pesticide Applicators (PPP-113/POL-3)
+— Understand management practices
+commercial applicators can follow to
+minimize any potential harm.
+Protecting Pollinators in Agronomic
+Crop Production (POL-4) — Read
+about simple steps agronomic crop
+producers can take to minimize the
+negative effects of pesticide use.
+
+Recommended
+Indiana-native Plants
+for Protecting Pollinators
+(POL-6-W) — Use this list
+to find recommended
+plants you can use to
+attract and protect
+pollinators.
+
+Why Should We Care About
+Pollinators? (POL-7) — Learn more
+about the threats pollinators face and
+why it’s important to protect them.
+
+Biology and Control
+of Varroa Mites in
+Bee Hives (POL-8) —
+Find out how a tiny
+mite can create big
+problems for honey
+bee hives.
+
+Find Out More
+
+Find more publications in the
+Protecting Pollinators series by visiting
+the Purdue Extension Education Store
+www.edustore.purdue.edu
+
+74
+
+Acknowledgements
+Thanks to Dawn Minns for graphic design and Adduci
+Studios for illustrations. Thanks also to those who offered
+constructive comments during the development of this
+publication:
+Silvia Hinarejos, Valent USA
+Tammy Horn, Kentucky Department of Agriculture
+Melvin Nicholson, Nicholson Consulting Service
+Dan O’Hanion, Beekeeper
+Bridget O’Neill, Dupont
+Don Parker, National Cotton Council
+Ken Simpson, Beekeeper
+Disclaimer
+This publication is intended for educational purposes only. The authors’
+views have not been approved by any government agency, business, or
+individual and cannot be construed as representing a perspective other
+than that of the authors. The publication is distributed with the understanding that the authors are not rendering legal or other professional
+advice to the reader, and that the information contained herein should not
+be regarded or relied upon as a substitute for professional consultation.
+The use of information contained herein constitutes an agreement to hold
+the authors, companies or reviewers harmless for liability, damage, or expense incurred as a result of reference to or reliance upon the information
+provided. Mention of a proprietary product or service does not constitute
+an endorsement by the authors or their employers. Descriptions of specific
+situations are included only as hypothetical case studies to assist readers
+of this publication, and are not intended to represent any actual person,
+business entity or situation. Reference in this publication to any specific
+commercial product, process, or service, or the use of any trade, firm, or
+corporation name is for general informational purposes only and does
+not constitute an endorsement, recommendation, or certification of any
+kind by Purdue University. Individuals using such products assume responsibility that the product is used in a way intended by the manufacturer
+and misuse is neither endorsed nor condoned by the authors nor the
+manufacturer.
+
+This publication is supported by the Office of Indiana State Chemist Pollinator
+Protection Plan. More information about the plan is available on the state
+chemist’s website: www.oisc.purdue.edu/pesticide/p3_activities.html.
+
+75
+
+June 2017
+
+1-888-EXT-INFO
+
+•
+
+www.extension.purdue.edu
+
+Order or download materials from
+Purdue Extension • The Education Store
+www.edustore.purdue.edu
+
+
