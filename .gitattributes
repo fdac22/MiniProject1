@@ -1,0 +1,2 @@
+default-cards-20220912210801.json filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
