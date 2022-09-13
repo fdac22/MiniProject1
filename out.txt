@@ -1,0 +1,323 @@
+Towards Predicting Future Stress Events in a
+Driving Scenario
+Joseph Clark, Rajdeep Kumar Nath, and Himanshu Thapliyal
+Department of Electrical and Computer Engineering, University of Kentucky, Lexington, KY, USA
+Corresponding Author: hthapliyal@uky.edu
+Abstract —This paper presents a model for predicting
+whether a driver’s stress level will be high up to one
+minute in advance. Successfully predicting future stress
+would allow stress mitigation to begin before the sub-
+ject becomes stressed, reducing or possibly avoiding the
+performance penalties of stress. The proposed model
+takes features extracted from Galvanic Skin Response
+(GSR) signals on the foot and hand and Respiration
+and Electrocardiogram (ECG) signals from the chest
+of the driver. The data used to train the model was
+retrieved from an existing database and then processed
+to create statistical and frequency features. A total
+of 42 features were extracted from the data and then
+expanded into a total of 252 features by grouping the
+data and taking six statistical measurements of each
+group for each feature. A Random Forest Classiﬁer
+was trained and evaluated using a leave-one-subject-
+out testing approach. The model achieved 94% average
+accuracy on the test data, and a test data F1-score
+of 0.94. Performance data indicates that the model
+performs well and could be used as part of a vehicle
+stress prevention system.
+Index Terms —Galvanic Skin Response (GSR),
+Stress, Machine Learning
+I. Introduction
+High levels of stress impair task performance [1] and
+can lead to accidents while driving [2]. Stress detection
+can aid mitigation of stress and the associated negative
+eﬀects, but only after the subject has become stressed.
+A method of predicting stress in advance could improve
+stress mitigation strategies by allowing stress mitigation
+to begin before the subject enters a stressed state.
+Detection of physiological stress has been addressed
+in numerous papers, either by simple correlation with
+physiological data [3] or by the use of machine learning
+algorithms [4] [5]. We have been unable to ﬁnd any paper
+which has attempted to use machine learning to predict
+the stress level of a subject some time before the subject
+enters the ”stressed” state, however. Predicting stress
+beforehand has the advantage of allowing stress mitigation
+methods to begin before the subject is stressed, ideally
+negating the decreased task performance associated with
+stress.
+In this work, we propose a model which predicts ap-
+proaching stress, rather than the current stress level of the
+subject. If used in conjunction with a car entertainment
+system or smart phone, this model could be used to launch
+an intervention to decrease the subject’s stress before itrises above a certain threshold. An overview of such a
+system is presented in Figure 1.
+Fig. 1: Driver Stress Prevention System Overview
+In the stress prevention system, the vehicle has GSR,
+ECG, and Respiration sensors built-in [6] (or otherwise
+attached, e.g. via a smart watch worn by the driver).
+The physiological signals collected by the sensors are then
+transmitted to an on-board edge computing device which
+runs the stress prediction model. If the resulting predicted
+stress level is high, the system can automatically begin
+personalized stress mitigation strategies [7]. The chosen
+stress mitigation strategy can range from playing music
+to more advanced strategies such as reducing driver task
+load by reducing the ﬂow of non-essential information to
+the driver [8]. The system would also incorporate driver
+feedback to improve model accuracy with long-term use.
+This paper is organized as follows: Section II describes
+the proposed model and the data set it will be trained
+on. Section III presents the data processing procedure
+and feature extraction. Section IV discusses the results,
+Section V discusses limitations of the model, and Section
+VI discusses future research directions for this model.
+Section VII concludes the article.
+II. Proposed Work
+Figure 2 shows a diagram representing the proposed
+stress prediction model. The model begins with data
+preprocessing, feature extraction, and feature expansion.
+The extracted features are then separated into training
+and test data following a leave-one-subject-out (LOSO)
+testing approach. The training data is used to train a
+random forest classiﬁer, the performance of which is then
+measured using the test data. We propose the followingFig. 2: Stress Prediction Model Overview
+hypothesis to explore the possibility of predicting stress
+using this model.
+Hypothesis 1. Ifx(t)denotes the physiological feature
+space at time tandy(t)denotes the subject’s stress level
+at time t, then it is possible to develop a stress model M
+trained on x(t−1 :t−n), where nis the number of time
+steps used to train the model, that can predict y(t)with
+good accuracy.
+We will present the data used to train the stress predic-
+tion model, the model itself, and discuss the performance
+of the model on test data. Four diﬀerent values of n,n=
+2, 3, 4 and 5, will be tested in the feature expansion
+phase of the model and evaluated. We will be training the
+model with data consisting of six of our seven subjects and
+we will test the accuracy of the trained model using the
+remaining subject, following the LOSO testing approach.
+The experimental data used in this work is a subset of the
+data collected in [8].
+A. Data Extraction
+The data set used in this analysis consists of physiolog-
+ical data from 17 subjects as they completed an approx-
+imately 20 mile driving route through Boston, obtained
+from PHYSIONET [8]. While there is data from a total of
+17 subjects in the data set, only ten of these records (drive
+05, 06, 07, 08, 09, 10, 11, 12, 15, and 16) are complete.
+The remaining records are either missing some of the
+sensor data or data which diﬀerentiates diﬀerent driving
+periods. Of the ten records that have complete data,
+an additional three records (drive 08, 09, and 16) were
+found to be unsuitable for use in developing this model.
+Speciﬁcally, these three records have gaps in recorded data
+and data consistency problems. Each of these records isbroken into three distinct driving situations: Rest, City,
+and Highway. The driving route and experimental protocol
+was structured such that each ﬁle begins and ends with
+a Rest period, followed by alternating City and Highway
+driving periods. This data set is unfortunately also missing
+information concerning the time that each of these periods
+begin and end for each record. This information is also
+absent from [8] but is available in [9].
+III. Data Analysis
+The data analysis of the stress prediction model is
+divided into three phases: (i) Data Preprocessing, (ii)
+Feature Extraction, (iii) Feature Expansion. Feature se-
+lection was considered but did not show any performance
+improvement. The overview of the system is shown in
+Figure 2.
+A. Data Preprocessing
+The data preprocessing module consists of three stages.
+The ﬁrst stage normalizes the GSR, Respiration, and ECG
+signals to be within the range 0 to 1. The second stage
+uses a Butterworth ﬁlter of 5 order to ﬁlter oﬀ signal
+components that are higher than 1 Hz for the GSR signals,
+10 Hz for the respiration signal, and 40 Hz for the ECG
+signal. The third stage integrates the signals from diﬀerent
+time periods of the experiment for feature extraction.
+B. Feature Extraction
+The feature extraction module consists of three parts,
+one for each type of physiological signal. All of the features
+extracted from the physiological signals were calculated
+over a running 100 second window with a 50 second
+overlap.1) GSR Feature Extraction: A total of 7 features were
+extracted from both the hand and foot GSR signals. Two
+features, the mean and variance, were taken from the
+original signal, while the remainder are based on the peaks
+in the signal. The peaks are detected by applying a peak
+ﬁnding algorithm [10] to the ﬁrst derivative of the GSR
+signal. The features derived from the peaks are the number
+of peaks occurring in a window, the sum of the peak
+amplitude and duration, and the mean and variance of
+the peak prominence.
+2) Respiration Feature Extraction: A total of 6 features
+were extracted from the respiration signal. There are two
+statistical features: the mean and variance of the signal,
+and four frequency features: the power in the 0-0.1 Hz,
+0.1-0.2 Hz, 0.2-0.3 Hz, and 0.3-0.4 Hz bands. These were
+extracted by computing a periodogram for the signal and
+using and algorithm [11] to calculate the band power on
+the desired bands.
+3) ECG Feature Extraction: A total of 22 features were
+extracted from the ECG signal based on Heart Rate (HR)
+and Heart Rate Variability (HRV). These features were
+calculated by applying algorithms in [12] to extract time
+and frequency domain features from the ECG signal. The
+time domain features include statistical features relating
+to HRV and the mean, maximum, minimum and standard
+deviation of the heart rate. The frequency domain features
+include the total power in the signal, the power in the very
+low frequency (VLF, 0.003 to 0.04 Hz), low frequency (LF,
+0.04 to 0.15 Hz), and high frequency (HF, 0.15 to 0.40 Hz)
+bands, the ratio of the LF to HF bands, and the normalized
+LF and HF power.
+C. Feature Expansion
+In the feature expansion unit, all of the 42 total features
+extracted from the GSR, Respiration, and ECG signals
+were expanded into 6 new features. These new features
+consist of the mean, median, standard deviation, mini-
+mum, maximum, and time-weighted average of the original
+features in groups of ndata points each. In order to focus
+on predicting transitions between stress levels, only the
+lastndata points for each driving section were expanded
+and passed to the next stage. To ﬁnd an optimal value for
+n, four expanded features sets are generated by performing
+feature expansion with n= 2, 3, 4, and 5.
+Each data point is also labeled low, medium, or high
+stress depending on the driving situation (Rest, Highway,
+or City, respectively), and the label and 252 features are
+packed into a dataframe. At this point, the labels for each
+driving section were pushed back such that each data point
+is labeled with the upcoming driving situation. This results
+in the last datapoint for each drive being dropped because
+they cannot be used to predict a scenario. Because we are
+not interested in predicting the Rest situation, the data
+points which are labeled low stress are also dropped.TABLE I: Low Stress F1-Score as nChanges
+n\Drive No. 5 6 7 10 11 12 15
+2 0.80 1.00 1.00 0.67 0.67 1.00 0.67
+3 0.80 1.00 1.00 0.00 1.00 0.80 0.67
+4 0.80 1.00 1.00 0.00 1.00 0.80 1.00
+5 0.80 1.00 1.00 0.67 1.00 1.00 1.00
+IV. Results
+In this section we will discuss the performance of the
+ﬁtted models on the test data. The model is trained by
+ﬁtting a random forest classiﬁer with 100 estimators using
+the gini function and a maximum depth of 30 to the
+training set. The train and test sets are selected using
+the leave-one-subject-out testing approach, meaning that
+a drive is selected for the test set with the remaining drives
+composing the train set. After the model is evaluated, a
+diﬀerent drive is selected for the test set such that each
+drive is selected once. This approach is repeated with each
+of the four expanded feature sets. The model is evaluated
+based on accuracy classifying the training and test data,
+and F1-score on the test data. The precision, recall, and
+F1-score of the model on the test data are also measured
+for the high and low stress categories.
+From Figure 3 it may be seen that the model has
+good performance for all tested values of n. Additionally,
+there appears to be a positive, linear relationship between
+nand model performance. The clear exception to this
+relationship is the F1-score of the low stress category
+forn= 2, which is better than n= 3 or 4. Table
+I displays the low stress F1-score in more detail. It is
+clear that the low average performance is due to poor
+performance in classifying the low stress situation in drive
+10. This discrepancy appears to be the result of an unusual
+physiological reaction by the driver.
+The best results were generated from the n= 5 case.
+Table II shows the average precision and recall of the
+model. The precision and recall for the low stress scenario
+are 0.95 and 0.93, respectively, which indicates that the
+model both predicts the low stress state eﬀectively and
+has a low rate of incorrectly classifying low stress as high
+stress. The precision and recall for the high stress scencan also be measured noninvasively in only a few seconds,
+making it an even more attractive candidate. Replacing
+the Random Forest Classiﬁer with a deep neural network
+could also improve the model by removing the need for
+feature extraction and expansion. This would reduce the
+computational complexity of the model, thereby reducing
+the requirements for the edge device it operates on. A
+recurrentdeepneuralnetworkhastheaddedadvantageof
+havingtheinherentabilitytoaccountfortimedependency
+in input data, making it a good choice for this task.
+VII. Conclusion
+Inthisworkwehavepresentedastresspredictionmodel
+which can predict the stress level of a subject up to one
+minuteinadvance.ThemodelusesGSR,Respiratory,and
+Fig. 3: Model Performance as n Changes, where n is the ECG data taken while the subject is driving. The model
+number of timesteps used in input data then predicts whether the stress level of the subject will
+be high using n time steps of data prior to the period
+TABLE II: Precision and Recall of the Predictive Model
+of interest. Performance data indicates an approximately
+linearincreaseinperformancewithincreasingn.Thebest
+Precision Recall F1-Score performance of the model was at n= 5, where model has
+an average test accuracy of 94%. This indicates that the
+LowStress 0.95 0.93 0.92
+model has good performance and could be expanded to
+HighStress 0.96 0.95 0.95 include other driving situations.
+WeightedAverage 0.96 0.94 0.94 References
+[1] R. K. Henderson, H. R. Snyder, T. Gupta, and M. T. Banich,
+V. Discussions “When does stress help or harm? the eﬀects of stress control-
+labilityandsubjectivestressresponseonstroopperformance,”
+The physiological data used in this study is composed Frontiersinpsychology,vol.3,pp.179–179,2012.
+[2] G. Matthews, L. Dorn, T. W. Hoyes, D. R. Davies, A. I.
+only of data from subjects as they completed a speciﬁc
+Glendon, and R. G. Taylor, “Driver stress and performance
+driving route through Boston. While the consistency of on a driving simulator,” Human Factors, vol. 40, no. 1,
+thedatahasthedesirablepropertyofrevealingdiﬀerences pp. 136–149, 1998, pMID: 9579108. [Online]. Available:
+https://doi.org/10.1518/001872098779480569
+betweenindividuals,italsomakesitverydiﬃculttocreate
+[3] A. Queyam and M. Singh, “Correlation between physiological
+a generalized model. As a result, the current model may parametersofautomobiledriversandtraﬃcconditions,”Inter-
+perform more poorly on data collected from a diﬀerent nationalJournalofElectronicsEngineering,vol.5,pp.6–12,12
+2013.
+drivingroute.Additionally,thegroundtruthusedtotrain
+[4] Y.Cho,S.J.Julier,andN.Bianchi-Berthouze,“Instantstress:
+this model assumes that the road type is an accurate sole Detection of perceived mental stress through smartphone pho-
+indicator of subjective stress. While this is a reasonable toplethysmographyandthermalimaging,”JMIRmentalhealth,
+vol.6,no.4,pp.e10140–e10140,2019.
+starting point, subjective stress could also be inﬂuenced
+[5] F.D.MartinoandF.Delmastro,“High-resolutionphysiological
+by other drivers, weather conditions, or other occurrences stresspredictionmodelsbasedonensemblelearningandrecur-
+which can vary independent of the road type. rentneuralnetworks,”in2020IEEESymposiumonComputers
+andCommunications(ISCC). IEEE,2020,pp.1–6.
+VI. Future Research Direction [6] H. J. Baek, H. B. Lee, J. S. Kim, J. M. Choi, K. K. Kim, and
+K.S.Park,“Nonintrusivebiologicalsignalmonitoringinacarto
+Data from diﬀerent driving routes would improve the evaluateadriver’sstressandhealthstate,”Telemedicinejournal
+ande-health,vol.15,no.2,pp.182–189,2009.
+stresspredictionmodelbyreﬁningtheassumptionsthatit
+[7] H.Thapliyal,V.Khalus,andC.Labrado,“Stressdetectionand
+makesabouthowsubjectivestressisinﬂuencedbydriving management:Asurveyofwearablesmarthealthdevices,”IEEE
+conditions.Anothermethodofimprovingthemodelwould ConsumerElectronicsMagazine,vol.6,no.4,pp.64–69,2017.
+[8] J. Healey and R. Picard, “Detecting stress during real-world
+be using a better subjective stress indicator as the ground
+driving tasks using physiological sensors,” IEEE transactions
+truth, which could allow the model to account for more onintelligenttransportationsystems,vol.6,no.2,pp.156–166,
+than just the eﬀect that the road type has on the driver. 2005.
+[9] A. Akba¸s, “Evaluation of the physiological data indicating the
+This indicator would likely need to have an improved
+dynamicstresslevelofdrivers,”2011.
+sample rate to more closely match the rate at which [10] “Scipy,”https://www.scipy.org/,accessed:2021-1-25.
+subjective stress can change. Cortisol has been explored [11] “Biosppy,” https://biosppy.readthedocs.io/, accessed: 2021-1-
+25.
+as an indicator of stress [13] [14], making it a potential
+[12] “hrv-analysis,” https://pypi.org/project/hrv-analysis/,
+candidate. With the aid of a newer type of sensor [15], it accessed:2021-1-25.[13] S. Betti, R. M. Lova, E. Rovini, G. Acerbi, L. Santarelli,
+M. Cabiati, S. D. Ry, and F. Cavallo, “Evaluation of an inte-
+gratedsystemofwearablephysiologicalsensorsforstressmon-
+itoring in working environments by using biological markers,”
+IEEEtransactionsonbiomedicalengineering,vol.65,no.8,pp.
+1748–1758,2018.
+[14] R. K. Nath, H. Thapliyal, and A. Caban-Holt, “Machine
+learning based stress monitoring in older adults using
+wearable sensors and cortisol as stress biomarker,” Journal
+of Signal Processing Systems, Jan 2021. [Online]. Available:
+https://doi.org/10.1007/s11265-020-01611-5
+[15] O.Parlak,S.T.Keene,A.Marais,V.F.Curto,andA.Salleo,
+“Molecularly selective nanoporous membrane-based wearable
+organicelectrochemicaldevicefornoninvasivecortisolsensing,”
+Science Advances, vol. 4, no. 7, 2018. [Online]. Available:
+https://advances.sciencemag.org/content/4/7/eaar2904
