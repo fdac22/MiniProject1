@@ -1,50 +1,78 @@
     Datafication
-    Net Neutrality
-    Non-Fungible Tokens (NFT)
+    Net
+    Neutrality
+    Non-Fungible 
+    Tokens
     Metaverse
-    Digital Divide
-    Everything As A Service (Xaas)
+    Digital 
+    Divide
     Hyper-Personalization
     Gamification
     Wantrepreneur
-    Augmented Reality (AR)
-    Virtual reality (VR)
+    Augmented 
+    Reality
+    Virtual
     Robotics
-    Smart Industry 4.0
-    Robotic Process Automation (RPA)
-    Neural Networks
+    Robotic
+    Automation
+    Neural
+    Networks
     Blockchain
-    Technological Unemployment
-    Computer Vision
-    Distributed Cloud
-    Artificial Intelligence (AI)
-    The Internet of Behaviors (IOB)
+    Vision
+    Distributed
+    Cloud
+    Artificial 
+    Intelligence
     Hyperautomation
-    Extended Reality (XR)
-    Quantum Computing
-    5G Connectivity
-    Voice-as-User Interface (VUI)
+    Extended
+    Reality
+    Quantum
+    Computing
+    5G 
+    Connectivity
+    Voice-as-User
     Web3
     Multiexperience
-    Apps / Web-App / Native-App / Hybrid-App
-    Cloud-Native Platforms (CNPs)
-    Big Data
-    Internet of Senses
-    Platform as a Service (PaaS)
+    Web-App
+    Cloud-Native 
+    Platforms
+    Big 
+    Data
     Chatbots
-    Cloud Computing
+    Cloud
+    Computing
     Cryptocurrency
-    Data Mining
-    DevOps (Development Operations)
-    MLOps (Machine Learning Development Operations)
+    Data
+    Mining
+    DevOps
+    MLOps
     Digitization
-    Digital Transformation
-    Digital Disruption
-    Industry 4.0
-    Internet of Things (IoT)
-    Machine Learning (ML)
-    Voice-as-User Interface (VUI)
-    Actionable Analytics
+    Digital
+    Transformation
+    Digital
+    Disruption
+    Machine 
+    Learning
+    Actionable 
+    Analytics
     Microservices
-    User Interface (UI) & User Experience (UX)
-    Infrastructure as a Service (IaaS)
+    User 
+    Interface
+    User 
+    Experience
+    Infrastructure
+    VUI
+    XR
+    AI
+    IOB
+    PaaS
+    IoT
+    UX
+    UI
+    Iaas
+    NFT
+    XaaS
+    AR
+    VR
+    RPA
+    ML
